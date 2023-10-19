@@ -37,6 +37,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ZHIPUAI_API_KEY: ${{ secrets.ZHIPUAI_API_KEY }}
           U_NAME: ${{ secrets.U_NAME }}
+          REQ_TOKEN: ${{ secrets.REQ_TOKEN }}
              
       - name: PUSH
         env:
