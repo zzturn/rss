@@ -1,0 +1,4 @@
+test*.py
+docs/test*.xml
+docs/cache/Test*.cache
+docs/log/Test/*

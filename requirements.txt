@@ -1,12 +1,8 @@
 beautifulsoup4==4.12.2
 feedgen==0.9.0
 feedparser==6.0.10
-google_api_python_client==2.103.0
-google_auth_oauthlib==1.1.0
-Jinja2==3.1.2
 Markdown==3.5
 openai==0.28.1
-protobuf==4.24.4
 python-dotenv==1.0.0
 python_dateutil==2.8.2
 pytz==2023.3.post1

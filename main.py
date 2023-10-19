@@ -3,6 +3,7 @@ import re
 from datetime import datetime, timedelta
 
 import feedparser
+import markdown
 import pytz
 import requests
 import tiktoken
@@ -85,7 +86,7 @@ def html_to_text(html):
     pretty_text = soup.prettify()
 
     # 从HTML中提取纯文本
-    text = soup.get_text("\n")
+    text = BeautifulSoup(pretty_text, 'html.parser').get_text("\n")
 
     return text
 
@@ -160,7 +161,8 @@ def add_entry_to_feed(rss_feed, entry, summarize: bool = False, order='prepend')
             if summary is None:
                 logger.info("文章较短，不需要总结")
             else:
-                content = f"{summary['content']} <br/> {content}"
+                summary_context = markdown.markdown(summary['content'].replace("\n", "\n\n"), extensions=['sane_lists'])
+                content = f"{summary_context} <hr/><br/> {content}"
                 # 统计用的总 token 数
                 feed_title = rss_feed.title()
                 model = summary['model']
@@ -209,7 +211,7 @@ def gpt_summary(text):
 def concat_openai_prompt(text: str) -> list:
     return [
         {"role": "system",
-         "content": f"您是一位全能专家，不仅了解各个领域的知识，而且擅长总结归纳。我会提供一篇文章，你需要从中提取出5个关键词，并用中文归纳出文章的大纲，最后在总结一个综合摘要。摘要应涵盖原始文本中呈现的所有关键点和主要观点，同时将信息压缩成简明易懂的格式。请确保摘要包含支持主要观点的相关细节和示例，同时避免任何不必要的信息或重复内容。摘要长度应适合原始文本的长度和复杂性，提供清晰准确的概述，并不遗漏任何重要信息。同时你的输出内容还需要满足以下要求：1.以markdown格式输出 2.“关键词”，“大纲”，“总结”这几个字需要加粗 3.上述三个部分的内容应该分段落"},
+         "content": f"您是一位全能专家，不仅了解各个领域的知识，而且擅长总结归纳。我会提供一篇文章，你需要从中提取出5个关键词，并用中文归纳出文章的大纲，最后在总结一个综合摘要。摘要应涵盖原始文本中呈现的所有关键点和主要观点，同时将信息压缩成简明易懂的格式。请确保摘要包含支持主要观点的相关细节和示例，同时避免任何不必要的信息或重复内容。摘要长度应适合原始文本的长度和复杂性，提供清晰准确的概述，并不遗漏任何重要信息。同时你的输出内容还需要满足以下要求：1.以严格的markdown格式输出， 2.“关键词”，“大纲”，“总结”这几个字需要加粗 3.上述三个部分的内容应该分段落"},
         {"role": "user", "content": text}
     ]
 
@@ -370,6 +372,12 @@ def append_write_cache(cache_filename: str, link_to_append: set):
 
 
 load_dotenv()
+
+ZHIPUAI_API_KEY = os.environ.get("ZHIPUAI_API_KEY", None)
+ZHIPUAI_MODEL = os.environ.get('ZHIPUAI_MODEL', 'chatglm_std')
+REQ_TOKEN = os.environ.get('REQ_TOKEN', None)
+
+
 try:
     OPENAI_API_KEY = get_for_openai_key()
 except Exception as e:
@@ -378,9 +386,6 @@ except Exception as e:
 if OPENAI_API_KEY is None:
     OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', None)
 
-ZHIPUAI_API_KEY = os.environ.get("ZHIPUAI_API_KEY", None)
-ZHIPUAI_MODEL = os.environ.get('ZHIPUAI_MODEL', 'chatglm_std')
-REQ_TOKEN = os.environ.get('REQ_TOKEN', None)
 
 with open('config.yaml') as yaml_file:
     cfg = yaml.load(yaml_file, Loader=yaml.FullLoader)['rss']
