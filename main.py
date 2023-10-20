@@ -457,13 +457,12 @@ def main():
         # 更新缓存
         append_write_cache(feed_cache_filename, cache - origin_cache)
 
-        logger.removeHandler(log_file_handler)
-        log_file_handler.close()
-
         # 输出统计信息
         logger.info(f"{name} 已新增 {feed_count} 篇")
         logger.info(f"{name} AI总结花费 {feed_token_cost.get(name, {})}")
-
+        
+        logger.removeHandler(log_file_handler)
+        log_file_handler.close()
 
 if __name__ == '__main__':
     main()
