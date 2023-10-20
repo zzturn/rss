@@ -45,7 +45,7 @@ def request_for_openai_key():
     Returns:
         openai key
     """
-    url = 'https://v1.luoxin.vip/api/get_key'
+    url = 'https://v1.luoxin.vip/api/get_random_key'
 
     headers = {
         'Content-Type': 'application/json',
@@ -56,7 +56,7 @@ def request_for_openai_key():
     }
 
     try:
-        response = requests.put(url, headers=headers, json=data)
+        response = requests.post(url, headers=headers, json=data)
     except Exception as e:
         logger.warning(f"请求发生异常 {str(e)}")
         return ""
