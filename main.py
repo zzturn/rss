@@ -49,14 +49,11 @@ def request_for_openai_key():
 
     headers = {
         'Content-Type': 'application/json',
-    }
-
-    data = {
-        "token": REQ_TOKEN
+        'authorization': REQ_TOKEN
     }
 
     try:
-        response = requests.post(url, headers=headers, json=data)
+        response = requests.post(url, headers=headers)
     except Exception as e:
         logger.warning(f"请求发生异常 {str(e)}")
         return ""
