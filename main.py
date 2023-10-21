@@ -49,7 +49,7 @@ def request_for_openai_key():
 
     headers = {
         'Content-Type': 'application/json',
-        'authorization': REQ_TOKEN
+        'authorization': f"Bearer {REQ_TOKEN}"
     }
 
     try:
