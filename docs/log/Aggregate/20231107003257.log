@@ -1,0 +1,692 @@
+2023-11-07 00:32:57,507 - default - INFO - Parse: https://goteleport.com/blog/rss.xml
+2023-11-07 00:32:57,804 - default - INFO - End: https://goteleport.com/blog/rss.xml 已解析 0 篇文章
+2023-11-07 00:32:57,805 - default - INFO - Parse: https://engineering.mercari.com/en/blog/feed.xml
+2023-11-07 00:32:59,850 - default - INFO - End: https://engineering.mercari.com/en/blog/feed.xml 已解析 0 篇文章
+2023-11-07 00:32:59,850 - default - INFO - Parse: https://blog.replit.com/feed.xml
+2023-11-07 00:33:09,943 - default - INFO - Summarization cost {'prompt_tokens': 964, 'completion_tokens': 392, 'total_tokens': 1356}
+2023-11-07 00:33:09,944 - default - INFO - End: https://blog.replit.com/feed.xml 已解析 1 篇文章
+2023-11-07 00:33:09,944 - default - INFO - Parse: https://abhinavsarkar.net/tags/programming/feed.atom
+2023-11-07 00:33:11,352 - default - INFO - End: https://abhinavsarkar.net/tags/programming/feed.atom 已解析 0 篇文章
+2023-11-07 00:33:11,352 - default - INFO - Parse: https://httptoolkit.tech/rss.xml
+2023-11-07 00:33:13,452 - default - INFO - End: https://httptoolkit.tech/rss.xml 已解析 0 篇文章
+2023-11-07 00:33:13,452 - default - INFO - Parse: https://engineering.freeagent.com/feed/
+2023-11-07 00:33:14,239 - default - INFO - End: https://engineering.freeagent.com/feed/ 已解析 0 篇文章
+2023-11-07 00:33:14,239 - default - INFO - Parse: https://severalnines.com/rss.xml
+2023-11-07 00:33:25,753 - default - INFO - Summarization cost {'prompt_tokens': 1752, 'completion_tokens': 378, 'total_tokens': 2130}
+2023-11-07 00:33:25,754 - default - INFO - End: https://severalnines.com/rss.xml 已解析 1 篇文章
+2023-11-07 00:33:25,754 - default - INFO - Parse: https://learnk8s.io/rss.xml
+2023-11-07 00:33:26,095 - default - INFO - End: https://learnk8s.io/rss.xml 已解析 0 篇文章
+2023-11-07 00:33:26,095 - default - INFO - Parse: https://v8.dev/blog.atom
+2023-11-07 00:33:26,381 - default - INFO - End: https://v8.dev/blog.atom 已解析 0 篇文章
+2023-11-07 00:33:26,381 - default - INFO - Parse: https://technology.customink.com/feed.xml
+2023-11-07 00:33:27,996 - default - INFO - 解析 https://technology.customink.com/feed.xml 失败 <unknown>:2727:89: not well-formed (invalid token)
+2023-11-07 00:33:27,996 - default - INFO - End: https://technology.customink.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:33:27,996 - default - INFO - Parse: http://blog.avenuecode.com/rss.xml
+2023-11-07 00:33:28,264 - default - INFO - End: http://blog.avenuecode.com/rss.xml 已解析 0 篇文章
+2023-11-07 00:33:28,264 - default - INFO - Parse: https://8thlight.com/blog/feed/atom.xml
+2023-11-07 00:33:28,490 - default - INFO - 解析 https://8thlight.com/blog/feed/atom.xml 失败 <unknown>:3:0: XML or text declaration not at start of entity
+2023-11-07 00:33:28,490 - default - INFO - End: https://8thlight.com/blog/feed/atom.xml 已解析 0 篇文章
+2023-11-07 00:33:28,491 - default - INFO - Parse: http://blog.arkency.com/atom.xml
+2023-11-07 00:33:28,911 - default - INFO - End: http://blog.arkency.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:33:28,911 - default - INFO - Parse: http://artsy.github.io/feed
+2023-11-07 00:33:29,144 - default - INFO - End: http://artsy.github.io/feed 已解析 0 篇文章
+2023-11-07 00:33:29,144 - default - INFO - Parse: https://www.bigeng.io/rss/
+2023-11-07 00:33:29,330 - default - INFO - End: https://www.bigeng.io/rss/ 已解析 0 篇文章
+2023-11-07 00:33:29,330 - default - INFO - Parse: https://advancedweb.hu/atom.xml
+2023-11-07 00:33:30,491 - default - INFO - End: https://advancedweb.hu/atom.xml 已解析 0 篇文章
+2023-11-07 00:33:30,491 - default - INFO - Parse: https://auth0.com/blog/rss.xml
+2023-11-07 00:33:30,698 - default - INFO - 解析 https://auth0.com/blog/rss.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-07 00:33:30,698 - default - INFO - End: https://auth0.com/blog/rss.xml 已解析 0 篇文章
+2023-11-07 00:33:30,698 - default - INFO - Parse: https://capgemini.github.io/feed.xml
+2023-11-07 00:33:31,089 - default - INFO - End: https://capgemini.github.io/feed.xml 已解析 0 篇文章
+2023-11-07 00:33:31,089 - default - INFO - Parse: https://aws.amazon.com/blogs/aws/feed/
+2023-11-07 00:33:37,505 - default - INFO - Summarization cost {'prompt_tokens': 1349, 'completion_tokens': 279, 'total_tokens': 1628}
+2023-11-07 00:33:50,806 - default - INFO - Summarization cost {'prompt_tokens': 1245, 'completion_tokens': 667, 'total_tokens': 1912}
+2023-11-07 00:33:50,807 - default - INFO - End: https://aws.amazon.com/blogs/aws/feed/ 已解析 2 篇文章
+2023-11-07 00:33:50,807 - default - INFO - Parse: https://code.blender.org/rss
+2023-11-07 00:33:51,929 - default - INFO - End: https://code.blender.org/rss 已解析 0 篇文章
+2023-11-07 00:33:51,929 - default - INFO - Parse: http://www.codenameone.com/feed.xml
+2023-11-07 00:33:56,756 - default - INFO - End: http://www.codenameone.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:33:56,756 - default - INFO - Parse: https://spin.atomicobject.com/feed/
+2023-11-07 00:34:03,210 - default - INFO - Summarization cost {'prompt_tokens': 1118, 'completion_tokens': 269, 'total_tokens': 1387}
+2023-11-07 00:34:03,210 - default - INFO - End: https://spin.atomicobject.com/feed/ 已解析 1 篇文章
+2023-11-07 00:34:03,210 - default - INFO - Parse: https://blog.developer.bazaarvoice.com/feed/
+2023-11-07 00:34:03,706 - default - INFO - End: https://blog.developer.bazaarvoice.com/feed/ 已解析 0 篇文章
+2023-11-07 00:34:03,706 - default - INFO - Parse: https://blog.cloudflare.com/rss/
+2023-11-07 00:34:04,335 - default - INFO - End: https://blog.cloudflare.com/rss/ 已解析 0 篇文章
+2023-11-07 00:34:04,336 - default - INFO - Parse: https://developer.atlassian.com/blog/feed.xml
+2023-11-07 00:34:04,801 - default - INFO - End: https://developer.atlassian.com/blog/feed.xml 已解析 0 篇文章
+2023-11-07 00:34:04,801 - default - INFO - Parse: https://blog.cloudera.com/feed/
+2023-11-07 00:34:05,820 - default - INFO - End: https://blog.cloudera.com/feed/ 已解析 0 篇文章
+2023-11-07 00:34:05,820 - default - INFO - Parse: https://www.confluent.io/feed/
+2023-11-07 00:34:06,007 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:34:06,007 - default - INFO - End: https://www.confluent.io/feed/ 已解析 1 篇文章
+2023-11-07 00:34:06,007 - default - INFO - Parse: https://tech.buzzfeed.com/feed
+2023-11-07 00:34:06,336 - default - INFO - End: https://tech.buzzfeed.com/feed 已解析 0 篇文章
+2023-11-07 00:34:06,337 - default - INFO - Parse: https://engineering.brandwatch.com/rss/
+2023-11-07 00:34:07,014 - default - INFO - End: https://engineering.brandwatch.com/rss/ 已解析 0 篇文章
+2023-11-07 00:34:07,014 - default - INFO - Parse: https://benchling.engineering/feed
+2023-11-07 00:34:07,422 - default - INFO - End: https://benchling.engineering/feed 已解析 0 篇文章
+2023-11-07 00:34:07,422 - default - INFO - Parse: https://www.elastic.co/blog/feed
+2023-11-07 00:34:07,596 - default - INFO - End: https://www.elastic.co/blog/feed 已解析 2 篇文章
+2023-11-07 00:34:07,596 - default - INFO - Parse: http://deliveroo.engineering/feed.xml
+2023-11-07 00:34:07,969 - default - INFO - End: http://deliveroo.engineering/feed.xml 已解析 0 篇文章
+2023-11-07 00:34:07,970 - default - INFO - Parse: https://techblog.commercetools.com/feed
+2023-11-07 00:34:08,212 - default - INFO - End: https://techblog.commercetools.com/feed 已解析 0 篇文章
+2023-11-07 00:34:08,212 - default - INFO - Parse: https://databricks.com/feed
+2023-11-07 00:34:08,438 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:34:08,439 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:34:08,439 - default - INFO - End: https://databricks.com/feed 已解析 2 篇文章
+2023-11-07 00:34:08,439 - default - INFO - Parse: https://deezer.io/feed
+2023-11-07 00:34:08,794 - default - INFO - End: https://deezer.io/feed 已解析 0 篇文章
+2023-11-07 00:34:08,795 - default - INFO - Parse: https://engineering.fb.com/feed/
+2023-11-07 00:34:09,206 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:34:09,206 - default - INFO - End: https://engineering.fb.com/feed/ 已解析 1 篇文章
+2023-11-07 00:34:09,206 - default - INFO - Parse: https://codeascraft.com/feed/
+2023-11-07 00:34:09,337 - default - INFO - 解析 https://codeascraft.com/feed/ 失败 text/html;charset=utf-8 is not an XML media type
+2023-11-07 00:34:09,337 - default - INFO - End: https://codeascraft.com/feed/ 已解析 0 篇文章
+2023-11-07 00:34:09,337 - default - INFO - Parse: https://medium.com/feed/feedzaitech
+2023-11-07 00:34:09,549 - default - INFO - End: https://medium.com/feed/feedzaitech 已解析 0 篇文章
+2023-11-07 00:34:09,549 - default - INFO - Parse: https://tech.findmypast.com/feed.xml
+2023-11-07 00:34:09,724 - default - INFO - End: https://tech.findmypast.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:34:09,725 - default - INFO - Parse: https://code.fb.com/feed/
+2023-11-07 00:34:09,931 - default - INFO - End: https://code.fb.com/feed/ 已解析 0 篇文章
+2023-11-07 00:34:09,931 - default - INFO - Parse: https://www.eventbrite.com/engineering/feed/
+2023-11-07 00:34:10,077 - default - INFO - End: https://www.eventbrite.com/engineering/feed/ 已解析 0 篇文章
+2023-11-07 00:34:10,077 - default - INFO - Parse: https://evernote.com/blog/feed/
+2023-11-07 00:34:10,159 - default - INFO - 解析 https://evernote.com/blog/feed/ 失败 <unknown>:2:0: not well-formed (invalid token)
+2023-11-07 00:34:10,159 - default - INFO - End: https://evernote.com/blog/feed/ 已解析 0 篇文章
+2023-11-07 00:34:10,159 - default - INFO - Parse: https://drivy.engineering/feed.xml
+2023-11-07 00:34:11,565 - default - INFO - End: https://drivy.engineering/feed.xml 已解析 0 篇文章
+2023-11-07 00:34:11,565 - default - INFO - Parse: https://evilmartians.com/chronicles.atom
+2023-11-07 00:34:11,767 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:34:11,767 - default - INFO - End: https://evilmartians.com/chronicles.atom 已解析 1 篇文章
+2023-11-07 00:34:11,767 - default - INFO - Parse: https://www.ebayinc.com/stories/blogs/tech/rss/
+2023-11-07 00:34:12,953 - default - INFO - End: https://www.ebayinc.com/stories/blogs/tech/rss/ 已解析 0 篇文章
+2023-11-07 00:34:12,953 - default - INFO - Parse: http://feeds.feedburner.com/GoogleOnlineSecurityBlog
+2023-11-07 00:34:13,502 - default - INFO - End: http://feeds.feedburner.com/GoogleOnlineSecurityBlog 已解析 0 篇文章
+2023-11-07 00:34:13,502 - default - INFO - Parse: https://galois.com/feed/
+2023-11-07 00:34:25,586 - default - INFO - Summarization cost {'prompt_tokens': 3390, 'completion_tokens': 513, 'total_tokens': 3903}
+2023-11-07 00:34:25,587 - default - INFO - End: https://galois.com/feed/ 已解析 1 篇文章
+2023-11-07 00:34:25,587 - default - INFO - Parse: https://githubengineering.com/atom.xml
+2023-11-07 00:34:25,765 - default - INFO - End: https://githubengineering.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:34:25,766 - default - INFO - Parse: https://blog.digitalocean.com/rss/
+2023-11-07 00:34:26,800 - default - INFO - 解析 https://blog.digitalocean.com/rss/ 失败 application/octet-stream is not an XML media type
+2023-11-07 00:34:26,801 - default - INFO - End: https://blog.digitalocean.com/rss/ 已解析 0 篇文章
+2023-11-07 00:34:26,801 - default - INFO - Parse: https://www.hashicorp.com/blog/feed.xml
+2023-11-07 00:34:33,844 - default - INFO - Summarization cost {'prompt_tokens': 1048, 'completion_tokens': 290, 'total_tokens': 1338}
+2023-11-07 00:34:33,845 - default - INFO - End: https://www.hashicorp.com/blog/feed.xml 已解析 1 篇文章
+2023-11-07 00:34:33,845 - default - INFO - Parse: https://collectiveidea.com/blog/feed/
+2023-11-07 00:34:34,543 - default - INFO - End: https://collectiveidea.com/blog/feed/ 已解析 0 篇文章
+2023-11-07 00:34:34,543 - default - INFO - Parse: http://feeds.feedburner.com/blogspot/gJZg
+2023-11-07 00:34:35,083 - default - INFO - End: http://feeds.feedburner.com/blogspot/gJZg 已解析 0 篇文章
+2023-11-07 00:34:35,083 - default - INFO - Parse: http://engineering.grab.com/feed.xml
+2023-11-07 00:34:35,210 - default - INFO - End: http://engineering.grab.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:34:35,210 - default - INFO - Parse: https://engineering.gusto.com/rss/
+2023-11-07 00:34:35,438 - default - INFO - End: https://engineering.gusto.com/rss/ 已解析 0 篇文章
+2023-11-07 00:34:35,438 - default - INFO - Parse: https://www.hostinger.com/blog/feed/
+2023-11-07 00:34:45,048 - default - INFO - Summarization cost {'prompt_tokens': 2673, 'completion_tokens': 446, 'total_tokens': 3119}
+2023-11-07 00:34:45,049 - default - INFO - End: https://www.hostinger.com/blog/feed/ 已解析 1 篇文章
+2023-11-07 00:34:45,049 - default - INFO - Parse: https://engineering.doximity.com/feed
+2023-11-07 00:34:46,145 - default - INFO - End: https://engineering.doximity.com/feed 已解析 0 篇文章
+2023-11-07 00:34:46,145 - default - INFO - Parse: https://www.cockroachlabs.com/blog/index.xml
+2023-11-07 00:34:46,671 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:34:46,672 - default - INFO - End: https://www.cockroachlabs.com/blog/index.xml 已解析 1 篇文章
+2023-11-07 00:34:46,672 - default - INFO - Parse: https://product.hubspot.com/blog/rss.xml
+2023-11-07 00:34:46,899 - default - INFO - End: https://product.hubspot.com/blog/rss.xml 已解析 0 篇文章
+2023-11-07 00:34:46,899 - default - INFO - Parse: https://lambda.grofers.com/feed
+2023-11-07 00:34:47,307 - default - INFO - End: https://lambda.grofers.com/feed 已解析 0 篇文章
+2023-11-07 00:34:47,307 - default - INFO - Parse: https://dropbox.tech/feed
+2023-11-07 00:34:48,343 - default - INFO - End: https://dropbox.tech/feed 已解析 0 篇文章
+2023-11-07 00:34:48,343 - default - INFO - Parse: https://engineering.hashnode.com/rss.xml
+2023-11-07 00:34:48,733 - default - INFO - 解析 https://engineering.hashnode.com/rss.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-07 00:34:48,733 - default - INFO - End: https://engineering.hashnode.com/rss.xml 已解析 0 篇文章
+2023-11-07 00:34:48,734 - default - INFO - Parse: https://kinvolk.io/blog/index.xml
+2023-11-07 00:34:49,022 - default - INFO - 解析 https://kinvolk.io/blog/index.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-07 00:34:49,023 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:34:49,023 - default - INFO - End: https://kinvolk.io/blog/index.xml 已解析 1 篇文章
+2023-11-07 00:34:49,023 - default - INFO - Parse: https://tech.instacart.com/feed
+2023-11-07 00:34:49,307 - default - INFO - End: https://tech.instacart.com/feed 已解析 0 篇文章
+2023-11-07 00:34:49,307 - default - INFO - Parse: https://kolosek.com/rss/
+2023-11-07 00:34:49,466 - default - INFO - 解析 https://kolosek.com/rss/ 失败 <unknown>:19:18: not well-formed (invalid token)
+2023-11-07 00:34:49,467 - default - INFO - End: https://kolosek.com/rss/ 已解析 0 篇文章
+2023-11-07 00:34:49,467 - default - INFO - Parse: https://blog.heroku.com/engineering/feed
+2023-11-07 00:34:49,692 - default - INFO - End: https://blog.heroku.com/engineering/feed 已解析 0 篇文章
+2023-11-07 00:34:49,692 - default - INFO - Parse: https://hashrocket.com/blog.rss
+2023-11-07 00:34:50,087 - default - INFO - End: https://hashrocket.com/blog.rss 已解析 0 篇文章
+2023-11-07 00:34:50,087 - default - INFO - Parse: https://jobandtalent.engineering/feed
+2023-11-07 00:34:50,449 - default - INFO - End: https://jobandtalent.engineering/feed 已解析 0 篇文章
+2023-11-07 00:34:50,450 - default - INFO - Parse: https://blog.imgur.com/feed/
+2023-11-07 00:34:50,945 - default - INFO - End: https://blog.imgur.com/feed/ 已解析 0 篇文章
+2023-11-07 00:34:50,945 - default - INFO - Parse: https://nordicapis.com/feed/
+2023-11-07 00:34:51,593 - default - INFO - End: https://nordicapis.com/feed/ 已解析 0 篇文章
+2023-11-07 00:34:51,593 - default - INFO - Parse: https://blog.novoda.com/rss/
+2023-11-07 00:34:52,558 - default - INFO - End: https://blog.novoda.com/rss/ 已解析 0 篇文章
+2023-11-07 00:34:52,558 - default - INFO - Parse: https://developer.okta.com/feed.xml
+2023-11-07 00:34:53,081 - default - INFO - End: https://developer.okta.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:34:53,081 - default - INFO - Parse: https://eng.lyft.com/feed
+2023-11-07 00:34:53,376 - default - INFO - End: https://eng.lyft.com/feed 已解析 0 篇文章
+2023-11-07 00:34:53,376 - default - INFO - Parse: http://blog.memsql.com/feed/
+2023-11-07 00:34:53,637 - default - INFO - 解析 http://blog.memsql.com/feed/ 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-07 00:34:53,637 - default - INFO - End: http://blog.memsql.com/feed/ 已解析 0 篇文章
+2023-11-07 00:34:53,637 - default - INFO - Parse: https://engineering.mixpanel.com/feed/
+2023-11-07 00:34:53,970 - default - INFO - End: https://engineering.mixpanel.com/feed/ 已解析 0 篇文章
+2023-11-07 00:34:53,970 - default - INFO - Parse: https://medium.engineering/feed
+2023-11-07 00:34:54,248 - default - INFO - End: https://medium.engineering/feed 已解析 0 篇文章
+2023-11-07 00:34:54,248 - default - INFO - Parse: http://blog.apps.npr.org/atom.xml
+2023-11-07 00:34:55,447 - default - INFO - 解析 http://blog.apps.npr.org/atom.xml 失败 <unknown>:1172:54: undefined entity
+2023-11-07 00:34:55,448 - default - INFO - End: http://blog.apps.npr.org/atom.xml 已解析 0 篇文章
+2023-11-07 00:34:55,448 - default - INFO - Parse: https://engblog.nextdoor.com/feed
+2023-11-07 00:34:55,783 - default - INFO - End: https://engblog.nextdoor.com/feed 已解析 0 篇文章
+2023-11-07 00:34:55,783 - default - INFO - Parse: https://hacks.mozilla.org/feed/
+2023-11-07 00:34:56,535 - default - INFO - End: https://hacks.mozilla.org/feed/ 已解析 0 篇文章
+2023-11-07 00:34:56,535 - default - INFO - Parse: https://developers.redhat.com/blog/feed/atom/
+2023-11-07 00:34:56,987 - default - INFO - End: https://developers.redhat.com/blog/feed/atom/ 已解析 0 篇文章
+2023-11-07 00:34:56,987 - default - INFO - Parse: https://tech.olx.com/feed
+2023-11-07 00:34:57,339 - default - INFO - End: https://tech.olx.com/feed 已解析 0 篇文章
+2023-11-07 00:34:57,339 - default - INFO - Parse: https://postmarkapp.com/blog/feed.atom
+2023-11-07 00:34:58,105 - default - INFO - End: https://postmarkapp.com/blog/feed.atom 已解析 0 篇文章
+2023-11-07 00:34:58,105 - default - INFO - Parse: http://engineering.remind.com/feed.xml
+2023-11-07 00:34:58,341 - default - INFO - End: http://engineering.remind.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:34:58,341 - default - INFO - Parse: https://tech.showmax.com/feed.xml
+2023-11-07 00:34:59,629 - default - INFO - End: https://tech.showmax.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:34:59,629 - default - INFO - Parse: https://multithreaded.stitchfix.com/feed.xml
+2023-11-07 00:34:59,977 - default - INFO - End: https://multithreaded.stitchfix.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:34:59,977 - default - INFO - Parse: https://labs.spotify.com/feed/
+2023-11-07 00:35:01,548 - default - INFO - End: https://labs.spotify.com/feed/ 已解析 0 篇文章
+2023-11-07 00:35:01,549 - default - INFO - Parse: https://www.stridenyc.com/blog/rss.xml
+2023-11-07 00:35:01,986 - default - INFO - End: https://www.stridenyc.com/blog/rss.xml 已解析 0 篇文章
+2023-11-07 00:35:01,986 - default - INFO - Parse: https://technology.skybettingandgaming.com/feed.xml
+2023-11-07 00:35:02,408 - default - INFO - End: https://technology.skybettingandgaming.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:35:02,408 - default - INFO - Parse: https://umbrella.cisco.com/blog/feed/
+2023-11-07 00:35:07,308 - default - INFO - End: https://umbrella.cisco.com/blog/feed/ 已解析 0 篇文章
+2023-11-07 00:35:07,309 - default - INFO - Parse: https://www.surveymonkey.com/feed/
+2023-11-07 00:35:07,501 - default - INFO - End: https://www.surveymonkey.com/feed/ 已解析 0 篇文章
+2023-11-07 00:35:07,501 - default - INFO - Parse: https://engineering.prezi.com/feed
+2023-11-07 00:35:07,831 - default - INFO - End: https://engineering.prezi.com/feed 已解析 0 篇文章
+2023-11-07 00:35:07,831 - default - INFO - Parse: https://semaphoreci.com/community/tutorials.atom
+2023-11-07 00:35:08,433 - default - INFO - End: https://semaphoreci.com/community/tutorials.atom 已解析 0 篇文章
+2023-11-07 00:35:08,433 - default - INFO - Parse: https://developer.salesforce.com/blogs/feed
+2023-11-07 00:35:24,836 - default - INFO - Summarization cost {'prompt_tokens': 2499, 'completion_tokens': 773, 'total_tokens': 3272}
+2023-11-07 00:35:24,837 - default - INFO - End: https://developer.salesforce.com/blogs/feed 已解析 1 篇文章
+2023-11-07 00:35:24,837 - default - INFO - Parse: https://mesosphere.com/feed/
+2023-11-07 00:35:25,565 - default - INFO - End: https://mesosphere.com/feed/ 已解析 0 篇文章
+2023-11-07 00:35:25,565 - default - INFO - Parse: https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots
+2023-11-07 00:35:25,706 - default - INFO - End: https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots 已解析 0 篇文章
+2023-11-07 00:35:25,706 - default - INFO - Parse: https://www.toptal.com/blog.rss
+2023-11-07 00:35:25,917 - default - INFO - End: https://www.toptal.com/blog.rss 已解析 0 篇文章
+2023-11-07 00:35:25,917 - default - INFO - Parse: https://slack.engineering/feed
+2023-11-07 00:35:26,035 - default - INFO - End: https://slack.engineering/feed 已解析 0 篇文章
+2023-11-07 00:35:26,035 - default - INFO - Parse: http://semaphoreci.com/blog/engineering.xml
+2023-11-07 00:35:26,705 - default - INFO - End: http://semaphoreci.com/blog/engineering.xml 已解析 0 篇文章
+2023-11-07 00:35:26,705 - default - INFO - Parse: https://blog.siftscience.com/feed/
+2023-11-07 00:35:27,101 - default - INFO - End: https://blog.siftscience.com/feed/ 已解析 0 篇文章
+2023-11-07 00:35:27,101 - default - INFO - Parse: https://stackoverflow.blog/feed/
+2023-11-07 00:35:27,284 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:35:27,284 - default - INFO - End: https://stackoverflow.blog/feed/ 已解析 1 篇文章
+2023-11-07 00:35:27,284 - default - INFO - Parse: http://techblog.thescore.com/feed.xml
+2023-11-07 00:35:28,520 - default - INFO - 解析 http://techblog.thescore.com/feed.xml 失败 <unknown>:1500:26: not well-formed (invalid token)
+2023-11-07 00:35:28,521 - default - INFO - End: http://techblog.thescore.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:35:28,521 - default - INFO - Parse: https://tech.trivago.com/index.xml
+2023-11-07 00:35:28,880 - default - INFO - End: https://tech.trivago.com/index.xml 已解析 0 篇文章
+2023-11-07 00:35:28,880 - default - INFO - Parse: https://www.thoughtworks.com/rss/insights.xml
+2023-11-07 00:35:31,437 - default - INFO - End: https://www.thoughtworks.com/rss/insights.xml 已解析 0 篇文章
+2023-11-07 00:35:31,438 - default - INFO - Parse: https://bytes.swiggy.com/feed
+2023-11-07 00:35:31,718 - default - INFO - End: https://bytes.swiggy.com/feed 已解析 0 篇文章
+2023-11-07 00:35:31,719 - default - INFO - Parse: http://engineering.vinted.com//atom.xml
+2023-11-07 00:35:31,986 - default - INFO - End: http://engineering.vinted.com//atom.xml 已解析 0 篇文章
+2023-11-07 00:35:31,986 - default - INFO - Parse: https://developers.soundcloud.com/blog.rss
+2023-11-07 00:35:34,984 - default - INFO - End: https://developers.soundcloud.com/blog.rss 已解析 0 篇文章
+2023-11-07 00:35:34,984 - default - INFO - Parse: https://blog.timescale.com/feed
+2023-11-07 00:35:42,451 - default - INFO - Summarization cost {'prompt_tokens': 3276, 'completion_tokens': 336, 'total_tokens': 3612}
+2023-11-07 00:35:42,452 - default - INFO - End: https://blog.timescale.com/feed 已解析 1 篇文章
+2023-11-07 00:35:42,452 - default - INFO - Parse: https://engineering.tumblr.com/rss
+2023-11-07 00:35:42,610 - default - INFO - End: https://engineering.tumblr.com/rss 已解析 0 篇文章
+2023-11-07 00:35:42,610 - default - INFO - Parse: http://eng.wealthfront.com/feed/
+2023-11-07 00:35:43,285 - default - INFO - End: http://eng.wealthfront.com/feed/ 已解析 0 篇文章
+2023-11-07 00:35:43,285 - default - INFO - Parse: https://www.sitepoint.com/feed/
+2023-11-07 00:35:44,131 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:35:44,132 - default - INFO - End: https://www.sitepoint.com/feed/ 已解析 1 篇文章
+2023-11-07 00:35:44,132 - default - INFO - Parse: https://stripe.com/blog/feed.rss
+2023-11-07 00:35:44,991 - default - INFO - End: https://stripe.com/blog/feed.rss 已解析 0 篇文章
+2023-11-07 00:35:44,991 - default - INFO - Parse: http://engineering.wingify.com/atom.xml
+2023-11-07 00:35:46,508 - default - INFO - End: http://engineering.wingify.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:35:46,508 - default - INFO - Parse: https://infrequently.org/feed/
+2023-11-07 00:35:46,939 - default - INFO - End: https://infrequently.org/feed/ 已解析 0 篇文章
+2023-11-07 00:35:46,940 - default - INFO - Parse: https://www.amitmerchant.com/feed.xml
+2023-11-07 00:35:59,761 - default - INFO - Summarization cost {'prompt_tokens': 1034, 'completion_tokens': 645, 'total_tokens': 1679}
+2023-11-07 00:35:59,762 - default - INFO - End: https://www.amitmerchant.com/feed.xml 已解析 1 篇文章
+2023-11-07 00:35:59,762 - default - INFO - Parse: https://buildingvts.com/feed
+2023-11-07 00:36:00,018 - default - INFO - End: https://buildingvts.com/feed 已解析 0 篇文章
+2023-11-07 00:36:00,018 - default - INFO - Parse: http://addyosmani.com/rss.xml
+2023-11-07 00:36:00,209 - default - INFO - End: http://addyosmani.com/rss.xml 已解析 0 篇文章
+2023-11-07 00:36:00,209 - default - INFO - Parse: https://engineeringblog.yelp.com/feed.xml
+2023-11-07 00:36:00,335 - default - INFO - 解析 https://engineeringblog.yelp.com/feed.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-07 00:36:00,335 - default - INFO - End: https://engineeringblog.yelp.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:00,335 - default - INFO - Parse: https://alanstorm.com/feed/feed.xml
+2023-11-07 00:36:00,716 - default - INFO - 解析 https://alanstorm.com/feed/feed.xml 失败 <unknown>:124:0: junk after document element
+2023-11-07 00:36:00,716 - default - INFO - End: https://alanstorm.com/feed/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:00,716 - default - INFO - Parse: https://ariya.io/index.xml
+2023-11-07 00:36:00,930 - default - INFO - End: https://ariya.io/index.xml 已解析 0 篇文章
+2023-11-07 00:36:00,930 - default - INFO - Parse: https://tech.xing.com/feed
+2023-11-07 00:36:01,936 - default - INFO - End: https://tech.xing.com/feed 已解析 0 篇文章
+2023-11-07 00:36:01,936 - default - INFO - Parse: http://tenderlovemaking.com/atom.xml
+2023-11-07 00:36:02,469 - default - INFO - End: http://tenderlovemaking.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:36:02,469 - default - INFO - Parse: https://www.devroom.io/index.xml
+2023-11-07 00:36:03,472 - default - INFO - 解析 https://www.devroom.io/index.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-07 00:36:03,473 - default - INFO - End: https://www.devroom.io/index.xml 已解析 0 篇文章
+2023-11-07 00:36:03,473 - default - INFO - Parse: https://carlosbecker.com/index.xml
+2023-11-07 00:36:03,659 - default - INFO - End: https://carlosbecker.com/index.xml 已解析 0 篇文章
+2023-11-07 00:36:03,659 - default - INFO - Parse: https://developerblog.zendesk.com/feed
+2023-11-07 00:36:03,885 - default - INFO - End: https://developerblog.zendesk.com/feed 已解析 0 篇文章
+2023-11-07 00:36:03,885 - default - INFO - Parse: https://bohops.com/feed/
+2023-11-07 00:36:04,102 - default - INFO - End: https://bohops.com/feed/ 已解析 0 篇文章
+2023-11-07 00:36:04,102 - default - INFO - Parse: http://lucumr.pocoo.org/feed.atom
+2023-11-07 00:36:05,598 - default - INFO - End: http://lucumr.pocoo.org/feed.atom 已解析 0 篇文章
+2023-11-07 00:36:05,599 - default - INFO - Parse: http://nullprogram.com/feed/
+2023-11-07 00:36:05,882 - default - INFO - End: http://nullprogram.com/feed/ 已解析 0 篇文章
+2023-11-07 00:36:05,882 - default - INFO - Parse: https://code.dblock.org/feed.xml
+2023-11-07 00:36:06,538 - default - INFO - End: https://code.dblock.org/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:06,538 - default - INFO - Parse: http://www.brendangregg.com/blog/rss.xml
+2023-11-07 00:36:07,189 - default - INFO - End: http://www.brendangregg.com/blog/rss.xml 已解析 0 篇文章
+2023-11-07 00:36:07,190 - default - INFO - Parse: https://www.dereuromark.de/feed/
+2023-11-07 00:36:07,892 - default - INFO - End: https://www.dereuromark.de/feed/ 已解析 0 篇文章
+2023-11-07 00:36:07,892 - default - INFO - Parse: https://domenicoluciani.com/feed.xml
+2023-11-07 00:36:08,089 - default - INFO - End: https://domenicoluciani.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:08,089 - default - INFO - Parse: https://blog.filippo.io/rss/
+2023-11-07 00:36:08,540 - default - INFO - End: https://blog.filippo.io/rss/ 已解析 0 篇文章
+2023-11-07 00:36:08,540 - default - INFO - Parse: https://hookrace.net/blog/feed/
+2023-11-07 00:36:10,452 - default - INFO - End: https://hookrace.net/blog/feed/ 已解析 0 篇文章
+2023-11-07 00:36:10,452 - default - INFO - Parse: https://dotdev.co/feed/
+2023-11-07 00:36:10,669 - default - INFO - End: https://dotdev.co/feed/ 已解析 0 篇文章
+2023-11-07 00:36:10,669 - default - INFO - Parse: https://ericlippert.com/feed/
+2023-11-07 00:36:10,779 - default - INFO - End: https://ericlippert.com/feed/ 已解析 0 篇文章
+2023-11-07 00:36:10,780 - default - INFO - Parse: https://tomassetti.me/feed/
+2023-11-07 00:36:11,049 - default - INFO - End: https://tomassetti.me/feed/ 已解析 0 篇文章
+2023-11-07 00:36:11,049 - default - INFO - Parse: http://www.evanjones.ca/index.rss
+2023-11-07 00:36:11,226 - default - INFO - End: http://www.evanjones.ca/index.rss 已解析 0 篇文章
+2023-11-07 00:36:11,226 - default - INFO - Parse: https://deanhume.com/rss/
+2023-11-07 00:36:11,753 - default - INFO - End: https://deanhume.com/rss/ 已解析 0 篇文章
+2023-11-07 00:36:11,753 - default - INFO - Parse: http://feeds.feedburner.com/HighScalability
+2023-11-07 00:36:11,880 - default - INFO - End: http://feeds.feedburner.com/HighScalability 已解析 0 篇文章
+2023-11-07 00:36:11,880 - default - INFO - Parse: https://erikrunyon.com/feed.xml
+2023-11-07 00:36:12,093 - default - INFO - End: https://erikrunyon.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:12,093 - default - INFO - Parse: https://drewdevault.com/feed.xml
+2023-11-07 00:36:12,638 - default - INFO - End: https://drewdevault.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:12,638 - default - INFO - Parse: https://www.chenhuijing.com/feed.xml
+2023-11-07 00:36:13,160 - default - INFO - End: https://www.chenhuijing.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:13,160 - default - INFO - Parse: https://www.metachris.com/index.xml
+2023-11-07 00:36:13,260 - default - INFO - End: https://www.metachris.com/index.xml 已解析 0 篇文章
+2023-11-07 00:36:13,260 - default - INFO - Parse: https://elegantcode.com/feed/
+2023-11-07 00:36:13,341 - default - INFO - End: https://elegantcode.com/feed/ 已解析 0 篇文章
+2023-11-07 00:36:13,341 - default - INFO - Parse: https://conductofcode.io/feed.xml
+2023-11-07 00:36:13,612 - default - INFO - End: https://conductofcode.io/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:13,612 - default - INFO - Parse: https://glebbahmutov.com/blog/atom.xml
+2023-11-07 00:36:14,839 - default - INFO - End: https://glebbahmutov.com/blog/atom.xml 已解析 0 篇文章
+2023-11-07 00:36:14,839 - default - INFO - Parse: https://eli.thegreenplace.net/feeds/all.atom.xml
+2023-11-07 00:36:15,389 - default - INFO - End: https://eli.thegreenplace.net/feeds/all.atom.xml 已解析 0 篇文章
+2023-11-07 00:36:15,389 - default - INFO - Parse: https://henrikwarne.com/feed/
+2023-11-07 00:36:15,531 - default - INFO - End: https://henrikwarne.com/feed/ 已解析 0 篇文章
+2023-11-07 00:36:15,531 - default - INFO - Parse: https://davidwalsh.name/feed/atom
+2023-11-07 00:36:16,149 - default - INFO - End: https://davidwalsh.name/feed/atom 已解析 0 篇文章
+2023-11-07 00:36:16,149 - default - INFO - Parse: https://jeremykun.com/feed/
+2023-11-07 00:36:16,343 - default - INFO - End: https://jeremykun.com/feed/ 已解析 0 篇文章
+2023-11-07 00:36:16,343 - default - INFO - Parse: https://tympanus.net/codrops/rss
+2023-11-07 00:36:17,781 - default - INFO - End: https://tympanus.net/codrops/rss 已解析 0 篇文章
+2023-11-07 00:36:17,781 - default - INFO - Parse: http://jakewharton.com/feed.xml
+2023-11-07 00:36:19,061 - default - INFO - End: http://jakewharton.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:19,061 - default - INFO - Parse: https://jes.al/atom.xml
+2023-11-07 00:36:19,477 - default - INFO - End: https://jes.al/atom.xml 已解析 0 篇文章
+2023-11-07 00:36:19,477 - default - INFO - Parse: https://jvns.ca/atom.xml
+2023-11-07 00:36:20,598 - default - WARNING - Summarize failed. HTTP code 502 from API (<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>openkey.cloud | 502: Bad gateway</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              <span class="inline-block">Bad gateway</span>
+              <span class="code-label">Error code 502</span>
+            </h1>
+            <div>
+               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=openkey.cloud" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2023-11-07 00:36:20 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Browser
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=openkey.cloud" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Chicago</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=openkey.cloud" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+    </a>
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">openkey.cloud</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Host
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a bad gateway error.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">822180590fc2e227</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">172.183.131.225</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=openkey.cloud" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+)
+2023-11-07 00:36:20,599 - default - INFO - End: https://jvns.ca/atom.xml 已解析 1 篇文章
+2023-11-07 00:36:20,599 - default - INFO - Parse: https://codeblog.jonskeet.uk/feed/
+2023-11-07 00:36:20,794 - default - INFO - End: https://codeblog.jonskeet.uk/feed/ 已解析 0 篇文章
+2023-11-07 00:36:20,794 - default - INFO - Parse: https://adambard.com/blog/feed.xml
+2023-11-07 00:36:20,998 - default - INFO - End: https://adambard.com/blog/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:20,998 - default - INFO - Parse: https://useyourloaf.com/blog/rss.xml
+2023-11-07 00:36:21,920 - default - WARNING - Summarize failed. HTTP code 502 from API (<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>openkey.cloud | 502: Bad gateway</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              <span class="inline-block">Bad gateway</span>
+              <span class="code-label">Error code 502</span>
+            </h1>
+            <div>
+               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=openkey.cloud" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2023-11-07 00:36:21 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Browser
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=openkey.cloud" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Chicago</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=openkey.cloud" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+    </a>
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">openkey.cloud</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Host
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a bad gateway error.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">82218063ca96e227</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">172.183.131.225</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=openkey.cloud" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+)
+2023-11-07 00:36:21,920 - default - INFO - End: https://useyourloaf.com/blog/rss.xml 已解析 1 篇文章
+2023-11-07 00:36:21,920 - default - INFO - Parse: https://jerrygamblin.com/feed/
+2023-11-07 00:36:22,269 - default - INFO - End: https://jerrygamblin.com/feed/ 已解析 0 篇文章
+2023-11-07 00:36:22,269 - default - INFO - Parse: https://idea.popcount.org/rss.xml
+2023-11-07 00:36:23,071 - default - INFO - End: https://idea.popcount.org/rss.xml 已解析 0 篇文章
+2023-11-07 00:36:23,071 - default - INFO - Parse: https://maryrosecook.com/blog/feed.xml
+2023-11-07 00:36:23,310 - default - INFO - 解析 https://maryrosecook.com/blog/feed.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-07 00:36:23,310 - default - INFO - End: https://maryrosecook.com/blog/feed.xml 已解析 0 篇文章
+2023-11-07 00:36:23,310 - default - INFO - Parse: https://begriffs.com/atom.xml
+2023-11-07 00:36:24,915 - default - INFO - 解析 https://begriffs.com/atom.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-07 00:36:24,916 - default - INFO - End: https://begriffs.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:36:24,916 - default - INFO - Parse: http://matt.might.net/articles/feed.rss
+2023-11-07 00:36:25,351 - default - INFO - End: http://matt.might.net/articles/feed.rss 已解析 0 篇文章
+2023-11-07 00:36:25,351 - default - INFO - Parse: https://martinfowler.com/feed.atom
+2023-11-07 00:36:25,561 - default - INFO - End: https://martinfowler.com/feed.atom 已解析 0 篇文章
+2023-11-07 00:36:25,562 - default - INFO - Parse: https://blog.sleeplessbeastie.eu/feed.xml
+2023-11-07 00:36:28,296 - default - INFO - 文章较短，不需要总结
+2023-11-07 00:36:28,298 - default - INFO - End: https://blog.sleeplessbeastie.eu/feed.xml 已解析 1 篇文章
+2023-11-07 00:36:28,299 - default - INFO - Parse: https://blog.cryptographyengineering.com/feed/
+2023-11-07 00:36:28,603 - default - INFO - End: https://blog.cryptographyengineering.com/feed/ 已解析 0 篇文章
+2023-11-07 00:36:28,603 - default - INFO - Parse: http://blog.fogus.me/feed/
+2023-11-07 00:36:29,440 - default - INFO - End: http://blog.fogus.me/feed/ 已解析 0 篇文章
+2023-11-07 00:36:29,440 - default - INFO - Parse: https://blog.rinesi.com/feed/
+2023-11-07 00:36:42,154 - default - INFO - Summarization cost {'prompt_tokens': 1057, 'completion_tokens': 629, 'total_tokens': 1686}
+2023-11-07 00:36:52,352 - default - INFO - Summarization cost {'prompt_tokens': 1775, 'completion_tokens': 464, 'total_tokens': 2239}
+2023-11-07 00:37:01,418 - default - INFO - Summarization cost {'prompt_tokens': 928, 'completion_tokens': 425, 'total_tokens': 1353}
+2023-11-07 00:37:01,418 - default - INFO - End: https://blog.rinesi.com/feed/ 已解析 3 篇文章
+2023-11-07 00:37:01,419 - default - INFO - Parse: https://snook.ca/jonathan/index.rdf
+2023-11-07 00:37:01,749 - default - INFO - End: https://snook.ca/jonathan/index.rdf 已解析 0 篇文章
+2023-11-07 00:37:01,750 - default - INFO - Parse: https://www.mattcutts.com/blog/feed/
+2023-11-07 00:37:02,214 - default - INFO - End: https://www.mattcutts.com/blog/feed/ 已解析 0 篇文章
+2023-11-07 00:37:02,214 - default - INFO - Parse: http://www.windytan.com/feeds/posts/default
+2023-11-07 00:37:02,685 - default - INFO - End: http://www.windytan.com/feeds/posts/default 已解析 0 篇文章
+2023-11-07 00:37:02,685 - default - INFO - Parse: https://aphyr.com/posts.atom
+2023-11-07 00:37:03,894 - default - INFO - End: https://aphyr.com/posts.atom 已解析 0 篇文章
+2023-11-07 00:37:03,894 - default - INFO - Parse: http://blog.pamelafox.org/feeds/posts/default
+2023-11-07 00:37:04,326 - default - INFO - End: http://blog.pamelafox.org/feeds/posts/default 已解析 0 篇文章
+2023-11-07 00:37:04,326 - default - INFO - Parse: https://oleb.net/blog/atom.xml
+2023-11-07 00:37:04,646 - default - INFO - End: https://oleb.net/blog/atom.xml 已解析 0 篇文章
+2023-11-07 00:37:04,646 - default - INFO - Parse: https://blogs.msdn.microsoft.com/oldnewthing/feed
+2023-11-07 00:37:11,586 - default - INFO - Summarization cost {'prompt_tokens': 1492, 'completion_tokens': 295, 'total_tokens': 1787}
+2023-11-07 00:37:11,586 - default - INFO - End: https://blogs.msdn.microsoft.com/oldnewthing/feed 已解析 1 篇文章
+2023-11-07 00:37:11,587 - default - INFO - Parse: https://realpython.com/atom.xml
+2023-11-07 00:37:20,111 - default - INFO - Summarization cost {'prompt_tokens': 1364, 'completion_tokens': 286, 'total_tokens': 1650}
+2023-11-07 00:37:20,111 - default - INFO - End: https://realpython.com/atom.xml 已解析 1 篇文章
+2023-11-07 00:37:20,111 - default - INFO - Parse: http://blog.cleancoder.com/atom.xml
+2023-11-07 00:37:20,305 - default - INFO - End: http://blog.cleancoder.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:37:20,305 - default - INFO - Parse: https://akrabat.com/feed/
+2023-11-07 00:37:20,919 - default - INFO - End: https://akrabat.com/feed/ 已解析 0 篇文章
+2023-11-07 00:37:20,919 - default - INFO - Parse: https://www.thepolyglotdeveloper.com/blog/index.xml
+2023-11-07 00:37:22,011 - default - INFO - End: https://www.thepolyglotdeveloper.com/blog/index.xml 已解析 0 篇文章
+2023-11-07 00:37:22,011 - default - INFO - Parse: https://eviltrout.com/feed.xml
+2023-11-07 00:37:22,333 - default - INFO - End: https://eviltrout.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:37:22,333 - default - INFO - Parse: https://joshtronic.com/atom.xml
+2023-11-07 00:37:28,635 - default - INFO - End: https://joshtronic.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:37:28,635 - default - INFO - Parse: http://feeds.hanselman.com/ScottHanselman
+2023-11-07 00:37:28,955 - default - INFO - End: http://feeds.hanselman.com/ScottHanselman 已解析 0 篇文章
+2023-11-07 00:37:28,955 - default - INFO - Parse: https://blog.nelhage.com/atom.xml
+2023-11-07 00:37:29,201 - default - INFO - End: https://blog.nelhage.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:37:29,201 - default - INFO - Parse: http://blog.rtwilson.com/feed/
+2023-11-07 00:37:29,682 - default - INFO - End: http://blog.rtwilson.com/feed/ 已解析 0 篇文章
+2023-11-07 00:37:29,682 - default - INFO - Parse: http://www.catonmat.net/feed/
+2023-11-07 00:37:30,096 - default - INFO - End: http://www.catonmat.net/feed/ 已解析 0 篇文章
+2023-11-07 00:37:30,096 - default - INFO - Parse: https://neverfriday.com/feed/
+2023-11-07 00:37:30,723 - default - INFO - End: https://neverfriday.com/feed/ 已解析 0 篇文章
+2023-11-07 00:37:30,723 - default - INFO - Parse: http://thedailywtf.com/rss
+2023-11-07 00:37:40,540 - default - INFO - Summarization cost {'prompt_tokens': 1156, 'completion_tokens': 394, 'total_tokens': 1550}
+2023-11-07 00:37:40,540 - default - INFO - End: http://thedailywtf.com/rss 已解析 1 篇文章
+2023-11-07 00:37:40,540 - default - INFO - Parse: https://vladmihalcea.com/feed/
+2023-11-07 00:37:40,711 - default - INFO - End: https://vladmihalcea.com/feed/ 已解析 0 篇文章
+2023-11-07 00:37:40,711 - default - INFO - Parse: https://www.yegor256.com/rss.xml
+2023-11-07 00:37:40,886 - default - INFO - End: https://www.yegor256.com/rss.xml 已解析 0 篇文章
+2023-11-07 00:37:40,886 - default - INFO - Parse: https://muffinman.io/atom.xml
+2023-11-07 00:37:43,079 - default - INFO - End: https://muffinman.io/atom.xml 已解析 0 篇文章
+2023-11-07 00:37:43,079 - default - INFO - Parse: https://www.ardanlabs.com/blog/index.xml
+2023-11-07 00:37:43,294 - default - INFO - End: https://www.ardanlabs.com/blog/index.xml 已解析 0 篇文章
+2023-11-07 00:37:43,294 - default - INFO - Parse: https://blog.getbootstrap.com/feed.xml
+2023-11-07 00:37:43,499 - default - INFO - End: https://blog.getbootstrap.com/feed.xml 已解析 0 篇文章
+2023-11-07 00:37:43,499 - default - INFO - Parse: https://zachholman.com/atom.xml
+2023-11-07 00:37:43,798 - default - INFO - End: https://zachholman.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:37:43,798 - default - INFO - Parse: https://ipfs.io/blog/index.xml
+2023-11-07 00:37:44,257 - default - INFO - End: https://ipfs.io/blog/index.xml 已解析 0 篇文章
+2023-11-07 00:37:44,257 - default - INFO - Parse: https://blog.golang.org/feed.atom
+2023-11-07 00:37:44,633 - default - INFO - End: https://blog.golang.org/feed.atom 已解析 0 篇文章
+2023-11-07 00:37:44,633 - default - INFO - Parse: https://blog.jooq.org/feed/
+2023-11-07 00:37:45,416 - default - INFO - End: https://blog.jooq.org/feed/ 已解析 0 篇文章
+2023-11-07 00:37:45,416 - default - INFO - Parse: https://blogs.msdn.microsoft.com/dotnet/feed/
+2023-11-07 00:37:58,448 - default - INFO - Summarization cost {'prompt_tokens': 12805, 'completion_tokens': 534, 'total_tokens': 13339}
+2023-11-07 00:37:58,449 - default - INFO - End: https://blogs.msdn.microsoft.com/dotnet/feed/ 已解析 1 篇文章
+2023-11-07 00:37:58,449 - default - INFO - Parse: http://raganwald.com/atom.xml
+2023-11-07 00:38:07,048 - default - INFO - End: http://raganwald.com/atom.xml 已解析 0 篇文章
+2023-11-07 00:38:07,048 - default - INFO - Parse: https://blogs.windows.com/msedgedev/rss
+2023-11-07 00:38:07,539 - default - INFO - End: https://blogs.windows.com/msedgedev/rss 已解析 0 篇文章
+2023-11-07 00:38:07,540 - default - INFO - Parse: https://blog.jetbrains.com/kotlin/feed/
+2023-11-07 00:38:07,686 - default - INFO - End: https://blog.jetbrains.com/kotlin/feed/ 已解析 0 篇文章
+2023-11-07 00:38:07,686 - default - INFO - Parse: https://tania.dev/rss.xml
+2023-11-07 00:38:08,976 - default - INFO - End: https://tania.dev/rss.xml 已解析 0 篇文章
+2023-11-07 00:38:08,976 - default - INFO - Parse: https://swizec.com/blog/feed
+2023-11-07 00:38:09,100 - default - INFO - 解析 https://swizec.com/blog/feed 失败 <unknown>:2:0: syntax error
+2023-11-07 00:38:09,100 - default - INFO - End: https://swizec.com/blog/feed 已解析 0 篇文章
+2023-11-07 00:38:09,534 - default - INFO - Aggregate 已新增 32 篇
+2023-11-07 00:38:09,534 - default - INFO - Aggregate AI总结花费 {'gpt-3.5-turbo-0613': 35601, 'gpt-3.5-turbo-16k-0613': 13339}
