@@ -1,0 +1,457 @@
+2023-11-16 00:34:22,200 - default - INFO - Parse: https://goteleport.com/blog/rss.xml
+2023-11-16 00:34:22,512 - default - INFO - End: https://goteleport.com/blog/rss.xml 已解析 0 篇文章
+2023-11-16 00:34:22,513 - default - INFO - Parse: https://engineering.mercari.com/en/blog/feed.xml
+2023-11-16 00:34:24,650 - default - INFO - End: https://engineering.mercari.com/en/blog/feed.xml 已解析 0 篇文章
+2023-11-16 00:34:24,650 - default - INFO - Parse: https://blog.replit.com/feed.xml
+2023-11-16 00:34:26,444 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:34:26,445 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:34:26,446 - default - INFO - End: https://blog.replit.com/feed.xml 已解析 2 篇文章
+2023-11-16 00:34:26,446 - default - INFO - Parse: https://abhinavsarkar.net/tags/programming/feed.atom
+2023-11-16 00:34:27,884 - default - INFO - End: https://abhinavsarkar.net/tags/programming/feed.atom 已解析 0 篇文章
+2023-11-16 00:34:27,884 - default - INFO - Parse: https://httptoolkit.tech/rss.xml
+2023-11-16 00:34:29,837 - default - INFO - End: https://httptoolkit.tech/rss.xml 已解析 0 篇文章
+2023-11-16 00:34:29,837 - default - INFO - Parse: https://engineering.freeagent.com/feed/
+2023-11-16 00:34:30,533 - default - INFO - End: https://engineering.freeagent.com/feed/ 已解析 0 篇文章
+2023-11-16 00:34:30,534 - default - INFO - Parse: https://severalnines.com/rss.xml
+2023-11-16 00:34:31,638 - default - INFO - End: https://severalnines.com/rss.xml 已解析 0 篇文章
+2023-11-16 00:34:31,638 - default - INFO - Parse: https://learnk8s.io/rss.xml
+2023-11-16 00:34:32,163 - default - INFO - End: https://learnk8s.io/rss.xml 已解析 0 篇文章
+2023-11-16 00:34:32,163 - default - INFO - Parse: https://v8.dev/blog.atom
+2023-11-16 00:34:32,488 - default - INFO - End: https://v8.dev/blog.atom 已解析 0 篇文章
+2023-11-16 00:34:32,488 - default - INFO - Parse: https://technology.customink.com/feed.xml
+2023-11-16 00:34:34,038 - default - INFO - 解析 https://technology.customink.com/feed.xml 失败 <unknown>:2727:89: not well-formed (invalid token)
+2023-11-16 00:34:34,039 - default - INFO - End: https://technology.customink.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:34:34,039 - default - INFO - Parse: http://blog.avenuecode.com/rss.xml
+2023-11-16 00:34:34,257 - default - INFO - End: http://blog.avenuecode.com/rss.xml 已解析 0 篇文章
+2023-11-16 00:34:34,257 - default - INFO - Parse: https://8thlight.com/blog/feed/atom.xml
+2023-11-16 00:34:34,754 - default - INFO - 解析 https://8thlight.com/blog/feed/atom.xml 失败 <unknown>:3:0: XML or text declaration not at start of entity
+2023-11-16 00:34:34,754 - default - INFO - End: https://8thlight.com/blog/feed/atom.xml 已解析 0 篇文章
+2023-11-16 00:34:34,754 - default - INFO - Parse: http://blog.arkency.com/atom.xml
+2023-11-16 00:34:35,066 - default - INFO - End: http://blog.arkency.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:34:35,066 - default - INFO - Parse: http://artsy.github.io/feed
+2023-11-16 00:34:35,225 - default - INFO - End: http://artsy.github.io/feed 已解析 0 篇文章
+2023-11-16 00:34:35,225 - default - INFO - Parse: https://www.bigeng.io/rss/
+2023-11-16 00:34:35,554 - default - INFO - End: https://www.bigeng.io/rss/ 已解析 0 篇文章
+2023-11-16 00:34:35,554 - default - INFO - Parse: https://advancedweb.hu/atom.xml
+2023-11-16 00:34:36,538 - default - INFO - End: https://advancedweb.hu/atom.xml 已解析 0 篇文章
+2023-11-16 00:34:36,538 - default - INFO - Parse: https://auth0.com/blog/rss.xml
+2023-11-16 00:34:36,676 - default - INFO - 解析 https://auth0.com/blog/rss.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-16 00:34:36,677 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:34:36,677 - default - INFO - End: https://auth0.com/blog/rss.xml 已解析 1 篇文章
+2023-11-16 00:34:36,677 - default - INFO - Parse: https://capgemini.github.io/feed.xml
+2023-11-16 00:34:37,040 - default - INFO - End: https://capgemini.github.io/feed.xml 已解析 0 篇文章
+2023-11-16 00:34:37,040 - default - INFO - Parse: https://aws.amazon.com/blogs/aws/feed/
+2023-11-16 00:34:37,574 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:34:37,575 - default - INFO - End: https://aws.amazon.com/blogs/aws/feed/ 已解析 1 篇文章
+2023-11-16 00:34:37,575 - default - INFO - Parse: https://code.blender.org/rss
+2023-11-16 00:34:38,759 - default - INFO - End: https://code.blender.org/rss 已解析 0 篇文章
+2023-11-16 00:34:38,759 - default - INFO - Parse: http://www.codenameone.com/feed.xml
+2023-11-16 00:34:43,347 - default - INFO - End: http://www.codenameone.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:34:43,347 - default - INFO - Parse: https://spin.atomicobject.com/feed/
+2023-11-16 00:34:44,383 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:34:44,384 - default - INFO - End: https://spin.atomicobject.com/feed/ 已解析 1 篇文章
+2023-11-16 00:34:44,384 - default - INFO - Parse: https://blog.developer.bazaarvoice.com/feed/
+2023-11-16 00:34:44,928 - default - INFO - End: https://blog.developer.bazaarvoice.com/feed/ 已解析 0 篇文章
+2023-11-16 00:34:44,928 - default - INFO - Parse: https://blog.cloudflare.com/rss/
+2023-11-16 00:34:45,784 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:34:45,785 - default - INFO - End: https://blog.cloudflare.com/rss/ 已解析 1 篇文章
+2023-11-16 00:34:45,785 - default - INFO - Parse: https://developer.atlassian.com/blog/feed.xml
+2023-11-16 00:34:46,369 - default - INFO - End: https://developer.atlassian.com/blog/feed.xml 已解析 0 篇文章
+2023-11-16 00:34:46,370 - default - INFO - Parse: https://blog.cloudera.com/feed/
+2023-11-16 00:34:47,282 - default - INFO - End: https://blog.cloudera.com/feed/ 已解析 0 篇文章
+2023-11-16 00:34:47,282 - default - INFO - Parse: https://www.confluent.io/feed/
+2023-11-16 00:34:47,661 - default - INFO - End: https://www.confluent.io/feed/ 已解析 0 篇文章
+2023-11-16 00:34:47,661 - default - INFO - Parse: https://tech.buzzfeed.com/feed
+2023-11-16 00:34:47,940 - default - INFO - End: https://tech.buzzfeed.com/feed 已解析 0 篇文章
+2023-11-16 00:34:47,940 - default - INFO - Parse: https://engineering.brandwatch.com/rss/
+2023-11-16 00:34:48,388 - default - INFO - End: https://engineering.brandwatch.com/rss/ 已解析 0 篇文章
+2023-11-16 00:34:48,388 - default - INFO - Parse: https://benchling.engineering/feed
+2023-11-16 00:34:48,690 - default - INFO - End: https://benchling.engineering/feed 已解析 0 篇文章
+2023-11-16 00:34:48,690 - default - INFO - Parse: https://www.elastic.co/blog/feed
+2023-11-16 00:34:48,916 - default - INFO - End: https://www.elastic.co/blog/feed 已解析 3 篇文章
+2023-11-16 00:34:48,916 - default - INFO - Parse: http://deliveroo.engineering/feed.xml
+2023-11-16 00:34:49,231 - default - INFO - End: http://deliveroo.engineering/feed.xml 已解析 0 篇文章
+2023-11-16 00:34:49,231 - default - INFO - Parse: https://techblog.commercetools.com/feed
+2023-11-16 00:34:49,390 - default - INFO - End: https://techblog.commercetools.com/feed 已解析 0 篇文章
+2023-11-16 00:34:49,390 - default - INFO - Parse: https://databricks.com/feed
+2023-11-16 00:34:49,581 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:34:49,581 - default - INFO - End: https://databricks.com/feed 已解析 1 篇文章
+2023-11-16 00:34:49,581 - default - INFO - Parse: https://deezer.io/feed
+2023-11-16 00:34:50,847 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:34:50,848 - default - INFO - End: https://deezer.io/feed 已解析 1 篇文章
+2023-11-16 00:34:50,849 - default - INFO - Parse: https://engineering.fb.com/feed/
+2023-11-16 00:34:51,482 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:34:51,482 - default - INFO - End: https://engineering.fb.com/feed/ 已解析 1 篇文章
+2023-11-16 00:34:51,482 - default - INFO - Parse: https://codeascraft.com/feed/
+2023-11-16 00:34:51,687 - default - INFO - 解析 https://codeascraft.com/feed/ 失败 text/html;charset=utf-8 is not an XML media type
+2023-11-16 00:34:51,687 - default - INFO - End: https://codeascraft.com/feed/ 已解析 0 篇文章
+2023-11-16 00:34:51,687 - default - INFO - Parse: https://medium.com/feed/feedzaitech
+2023-11-16 00:34:51,874 - default - INFO - End: https://medium.com/feed/feedzaitech 已解析 0 篇文章
+2023-11-16 00:34:51,875 - default - INFO - Parse: https://tech.findmypast.com/feed.xml
+2023-11-16 00:34:52,025 - default - INFO - End: https://tech.findmypast.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:34:52,025 - default - INFO - Parse: https://code.fb.com/feed/
+2023-11-16 00:34:52,429 - default - INFO - End: https://code.fb.com/feed/ 已解析 0 篇文章
+2023-11-16 00:34:52,429 - default - INFO - Parse: https://www.eventbrite.com/engineering/feed/
+2023-11-16 00:34:53,199 - default - INFO - End: https://www.eventbrite.com/engineering/feed/ 已解析 0 篇文章
+2023-11-16 00:34:53,199 - default - INFO - Parse: https://evernote.com/blog/feed/
+2023-11-16 00:34:53,343 - default - INFO - 解析 https://evernote.com/blog/feed/ 失败 <unknown>:2:0: not well-formed (invalid token)
+2023-11-16 00:34:53,343 - default - INFO - End: https://evernote.com/blog/feed/ 已解析 0 篇文章
+2023-11-16 00:34:53,343 - default - INFO - Parse: https://drivy.engineering/feed.xml
+2023-11-16 00:34:54,800 - default - INFO - End: https://drivy.engineering/feed.xml 已解析 0 篇文章
+2023-11-16 00:34:54,800 - default - INFO - Parse: https://evilmartians.com/chronicles.atom
+2023-11-16 00:34:55,030 - default - INFO - End: https://evilmartians.com/chronicles.atom 已解析 0 篇文章
+2023-11-16 00:34:55,030 - default - INFO - Parse: https://www.ebayinc.com/stories/blogs/tech/rss/
+2023-11-16 00:34:56,106 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:34:56,106 - default - INFO - End: https://www.ebayinc.com/stories/blogs/tech/rss/ 已解析 1 篇文章
+2023-11-16 00:34:56,107 - default - INFO - Parse: http://feeds.feedburner.com/GoogleOnlineSecurityBlog
+2023-11-16 00:34:56,566 - default - INFO - End: http://feeds.feedburner.com/GoogleOnlineSecurityBlog 已解析 0 篇文章
+2023-11-16 00:34:56,566 - default - INFO - Parse: https://galois.com/feed/
+2023-11-16 00:34:57,402 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:34:57,403 - default - INFO - End: https://galois.com/feed/ 已解析 1 篇文章
+2023-11-16 00:34:57,403 - default - INFO - Parse: https://githubengineering.com/atom.xml
+2023-11-16 00:34:57,588 - default - INFO - End: https://githubengineering.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:34:57,588 - default - INFO - Parse: https://blog.digitalocean.com/rss/
+2023-11-16 00:34:58,349 - default - INFO - 解析 https://blog.digitalocean.com/rss/ 失败 application/octet-stream is not an XML media type
+2023-11-16 00:34:58,349 - default - INFO - End: https://blog.digitalocean.com/rss/ 已解析 0 篇文章
+2023-11-16 00:34:58,349 - default - INFO - Parse: https://www.hashicorp.com/blog/feed.xml
+2023-11-16 00:34:58,744 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:34:58,745 - default - INFO - End: https://www.hashicorp.com/blog/feed.xml 已解析 1 篇文章
+2023-11-16 00:34:58,745 - default - INFO - Parse: https://collectiveidea.com/blog/feed/
+2023-11-16 00:34:59,222 - default - INFO - End: https://collectiveidea.com/blog/feed/ 已解析 0 篇文章
+2023-11-16 00:34:59,222 - default - INFO - Parse: http://feeds.feedburner.com/blogspot/gJZg
+2023-11-16 00:34:59,693 - default - INFO - End: http://feeds.feedburner.com/blogspot/gJZg 已解析 0 篇文章
+2023-11-16 00:34:59,693 - default - INFO - Parse: http://engineering.grab.com/feed.xml
+2023-11-16 00:34:59,857 - default - INFO - End: http://engineering.grab.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:34:59,857 - default - INFO - Parse: https://engineering.gusto.com/rss/
+2023-11-16 00:35:00,076 - default - INFO - End: https://engineering.gusto.com/rss/ 已解析 0 篇文章
+2023-11-16 00:35:00,076 - default - INFO - Parse: https://www.hostinger.com/blog/feed/
+2023-11-16 00:35:00,284 - default - INFO - End: https://www.hostinger.com/blog/feed/ 已解析 0 篇文章
+2023-11-16 00:35:00,284 - default - INFO - Parse: https://engineering.doximity.com/feed
+2023-11-16 00:35:01,233 - default - INFO - End: https://engineering.doximity.com/feed 已解析 0 篇文章
+2023-11-16 00:35:01,233 - default - INFO - Parse: https://www.cockroachlabs.com/blog/index.xml
+2023-11-16 00:35:01,725 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:35:01,726 - default - INFO - End: https://www.cockroachlabs.com/blog/index.xml 已解析 1 篇文章
+2023-11-16 00:35:01,726 - default - INFO - Parse: https://product.hubspot.com/blog/rss.xml
+2023-11-16 00:35:01,860 - default - INFO - End: https://product.hubspot.com/blog/rss.xml 已解析 0 篇文章
+2023-11-16 00:35:01,860 - default - INFO - Parse: https://lambda.grofers.com/feed
+2023-11-16 00:35:02,193 - default - INFO - End: https://lambda.grofers.com/feed 已解析 0 篇文章
+2023-11-16 00:35:02,193 - default - INFO - Parse: https://dropbox.tech/feed
+2023-11-16 00:35:03,220 - default - INFO - End: https://dropbox.tech/feed 已解析 0 篇文章
+2023-11-16 00:35:03,220 - default - INFO - Parse: https://engineering.hashnode.com/rss.xml
+2023-11-16 00:35:03,657 - default - INFO - 解析 https://engineering.hashnode.com/rss.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-16 00:35:03,657 - default - INFO - End: https://engineering.hashnode.com/rss.xml 已解析 0 篇文章
+2023-11-16 00:35:03,657 - default - INFO - Parse: https://kinvolk.io/blog/index.xml
+2023-11-16 00:35:03,777 - default - INFO - 解析 https://kinvolk.io/blog/index.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-16 00:35:03,778 - default - INFO - End: https://kinvolk.io/blog/index.xml 已解析 0 篇文章
+2023-11-16 00:35:03,778 - default - INFO - Parse: https://tech.instacart.com/feed
+2023-11-16 00:35:03,954 - default - INFO - End: https://tech.instacart.com/feed 已解析 0 篇文章
+2023-11-16 00:35:03,954 - default - INFO - Parse: https://kolosek.com/rss/
+2023-11-16 00:35:04,067 - default - INFO - 解析 https://kolosek.com/rss/ 失败 <unknown>:19:18: not well-formed (invalid token)
+2023-11-16 00:35:04,067 - default - INFO - End: https://kolosek.com/rss/ 已解析 0 篇文章
+2023-11-16 00:35:04,067 - default - INFO - Parse: https://blog.heroku.com/engineering/feed
+2023-11-16 00:35:04,592 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:35:04,593 - default - INFO - End: https://blog.heroku.com/engineering/feed 已解析 1 篇文章
+2023-11-16 00:35:04,593 - default - INFO - Parse: https://hashrocket.com/blog.rss
+2023-11-16 00:35:04,924 - default - INFO - End: https://hashrocket.com/blog.rss 已解析 0 篇文章
+2023-11-16 00:35:04,924 - default - INFO - Parse: https://jobandtalent.engineering/feed
+2023-11-16 00:35:05,433 - default - INFO - End: https://jobandtalent.engineering/feed 已解析 0 篇文章
+2023-11-16 00:35:05,433 - default - INFO - Parse: https://blog.imgur.com/feed/
+2023-11-16 00:35:05,824 - default - INFO - End: https://blog.imgur.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:05,824 - default - INFO - Parse: https://nordicapis.com/feed/
+2023-11-16 00:35:06,643 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:35:06,643 - default - INFO - End: https://nordicapis.com/feed/ 已解析 1 篇文章
+2023-11-16 00:35:06,643 - default - INFO - Parse: https://blog.novoda.com/rss/
+2023-11-16 00:35:07,545 - default - INFO - End: https://blog.novoda.com/rss/ 已解析 0 篇文章
+2023-11-16 00:35:07,545 - default - INFO - Parse: https://developer.okta.com/feed.xml
+2023-11-16 00:35:08,104 - default - INFO - End: https://developer.okta.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:08,104 - default - INFO - Parse: https://eng.lyft.com/feed
+2023-11-16 00:35:08,313 - default - INFO - End: https://eng.lyft.com/feed 已解析 0 篇文章
+2023-11-16 00:35:08,313 - default - INFO - Parse: http://blog.memsql.com/feed/
+2023-11-16 00:35:08,554 - default - INFO - 解析 http://blog.memsql.com/feed/ 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-16 00:35:08,555 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:35:08,555 - default - INFO - End: http://blog.memsql.com/feed/ 已解析 1 篇文章
+2023-11-16 00:35:08,555 - default - INFO - Parse: https://engineering.mixpanel.com/feed/
+2023-11-16 00:35:08,833 - default - INFO - End: https://engineering.mixpanel.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:08,833 - default - INFO - Parse: https://medium.engineering/feed
+2023-11-16 00:35:09,009 - default - INFO - End: https://medium.engineering/feed 已解析 0 篇文章
+2023-11-16 00:35:09,009 - default - INFO - Parse: http://blog.apps.npr.org/atom.xml
+2023-11-16 00:35:10,063 - default - INFO - 解析 http://blog.apps.npr.org/atom.xml 失败 <unknown>:1172:54: undefined entity
+2023-11-16 00:35:10,063 - default - INFO - End: http://blog.apps.npr.org/atom.xml 已解析 0 篇文章
+2023-11-16 00:35:10,063 - default - INFO - Parse: https://engblog.nextdoor.com/feed
+2023-11-16 00:35:10,255 - default - INFO - End: https://engblog.nextdoor.com/feed 已解析 0 篇文章
+2023-11-16 00:35:10,255 - default - INFO - Parse: https://hacks.mozilla.org/feed/
+2023-11-16 00:35:10,778 - default - INFO - End: https://hacks.mozilla.org/feed/ 已解析 0 篇文章
+2023-11-16 00:35:10,778 - default - INFO - Parse: https://developers.redhat.com/blog/feed/atom/
+2023-11-16 00:35:11,237 - default - INFO - End: https://developers.redhat.com/blog/feed/atom/ 已解析 0 篇文章
+2023-11-16 00:35:11,237 - default - INFO - Parse: https://tech.olx.com/feed
+2023-11-16 00:35:11,422 - default - INFO - End: https://tech.olx.com/feed 已解析 0 篇文章
+2023-11-16 00:35:11,423 - default - INFO - Parse: https://postmarkapp.com/blog/feed.atom
+2023-11-16 00:35:12,319 - default - INFO - End: https://postmarkapp.com/blog/feed.atom 已解析 0 篇文章
+2023-11-16 00:35:12,319 - default - INFO - Parse: http://engineering.remind.com/feed.xml
+2023-11-16 00:35:12,601 - default - INFO - End: http://engineering.remind.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:12,601 - default - INFO - Parse: https://tech.showmax.com/feed.xml
+2023-11-16 00:35:13,960 - default - INFO - End: https://tech.showmax.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:13,961 - default - INFO - Parse: https://multithreaded.stitchfix.com/feed.xml
+2023-11-16 00:35:14,248 - default - INFO - End: https://multithreaded.stitchfix.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:14,248 - default - INFO - Parse: https://labs.spotify.com/feed/
+2023-11-16 00:35:15,580 - default - INFO - End: https://labs.spotify.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:15,581 - default - INFO - Parse: https://www.stridenyc.com/blog/rss.xml
+2023-11-16 00:35:15,829 - default - INFO - End: https://www.stridenyc.com/blog/rss.xml 已解析 0 篇文章
+2023-11-16 00:35:15,829 - default - INFO - Parse: https://technology.skybettingandgaming.com/feed.xml
+2023-11-16 00:35:16,296 - default - INFO - End: https://technology.skybettingandgaming.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:16,296 - default - INFO - Parse: https://umbrella.cisco.com/blog/feed/
+2023-11-16 00:35:16,682 - default - INFO - End: https://umbrella.cisco.com/blog/feed/ 已解析 0 篇文章
+2023-11-16 00:35:16,682 - default - INFO - Parse: https://www.surveymonkey.com/feed/
+2023-11-16 00:35:16,929 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:35:16,930 - default - INFO - End: https://www.surveymonkey.com/feed/ 已解析 1 篇文章
+2023-11-16 00:35:16,930 - default - INFO - Parse: https://engineering.prezi.com/feed
+2023-11-16 00:35:17,055 - default - INFO - 解析 https://engineering.prezi.com/feed 失败 <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1131)>
+2023-11-16 00:35:17,055 - default - INFO - End: https://engineering.prezi.com/feed 已解析 0 篇文章
+2023-11-16 00:35:17,055 - default - INFO - Parse: https://semaphoreci.com/community/tutorials.atom
+2023-11-16 00:35:17,281 - default - INFO - 解析 https://semaphoreci.com/community/tutorials.atom 失败 <unknown>:2:0: syntax error
+2023-11-16 00:35:17,281 - default - INFO - End: https://semaphoreci.com/community/tutorials.atom 已解析 0 篇文章
+2023-11-16 00:35:17,281 - default - INFO - Parse: https://developer.salesforce.com/blogs/feed
+2023-11-16 00:35:17,783 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:35:17,784 - default - INFO - End: https://developer.salesforce.com/blogs/feed 已解析 1 篇文章
+2023-11-16 00:35:17,784 - default - INFO - Parse: https://mesosphere.com/feed/
+2023-11-16 00:35:18,822 - default - INFO - End: https://mesosphere.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:18,823 - default - INFO - Parse: https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots
+2023-11-16 00:35:18,960 - default - INFO - End: https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots 已解析 0 篇文章
+2023-11-16 00:35:18,960 - default - INFO - Parse: https://www.toptal.com/blog.rss
+2023-11-16 00:35:19,158 - default - INFO - End: https://www.toptal.com/blog.rss 已解析 0 篇文章
+2023-11-16 00:35:19,158 - default - INFO - Parse: https://slack.engineering/feed
+2023-11-16 00:35:19,628 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:35:19,629 - default - INFO - End: https://slack.engineering/feed 已解析 1 篇文章
+2023-11-16 00:35:19,629 - default - INFO - Parse: http://semaphoreci.com/blog/engineering.xml
+2023-11-16 00:35:19,844 - default - INFO - 解析 http://semaphoreci.com/blog/engineering.xml 失败 <unknown>:2:0: syntax error
+2023-11-16 00:35:19,844 - default - INFO - End: http://semaphoreci.com/blog/engineering.xml 已解析 0 篇文章
+2023-11-16 00:35:19,844 - default - INFO - Parse: https://blog.siftscience.com/feed/
+2023-11-16 00:35:20,698 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:35:20,698 - default - INFO - End: https://blog.siftscience.com/feed/ 已解析 1 篇文章
+2023-11-16 00:35:20,699 - default - INFO - Parse: https://stackoverflow.blog/feed/
+2023-11-16 00:35:20,781 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:35:20,781 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:35:20,782 - default - INFO - End: https://stackoverflow.blog/feed/ 已解析 2 篇文章
+2023-11-16 00:35:20,782 - default - INFO - Parse: http://techblog.thescore.com/feed.xml
+2023-11-16 00:35:21,959 - default - INFO - 解析 http://techblog.thescore.com/feed.xml 失败 <unknown>:1500:26: not well-formed (invalid token)
+2023-11-16 00:35:21,960 - default - INFO - End: http://techblog.thescore.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:21,960 - default - INFO - Parse: https://tech.trivago.com/index.xml
+2023-11-16 00:35:22,179 - default - INFO - End: https://tech.trivago.com/index.xml 已解析 0 篇文章
+2023-11-16 00:35:22,179 - default - INFO - Parse: https://www.thoughtworks.com/rss/insights.xml
+2023-11-16 00:35:24,746 - default - INFO - End: https://www.thoughtworks.com/rss/insights.xml 已解析 0 篇文章
+2023-11-16 00:35:24,746 - default - INFO - Parse: https://bytes.swiggy.com/feed
+2023-11-16 00:35:24,929 - default - INFO - End: https://bytes.swiggy.com/feed 已解析 0 篇文章
+2023-11-16 00:35:24,929 - default - INFO - Parse: http://engineering.vinted.com//atom.xml
+2023-11-16 00:35:25,184 - default - INFO - End: http://engineering.vinted.com//atom.xml 已解析 0 篇文章
+2023-11-16 00:35:25,184 - default - INFO - Parse: https://developers.soundcloud.com/blog.rss
+2023-11-16 00:35:27,335 - default - INFO - End: https://developers.soundcloud.com/blog.rss 已解析 0 篇文章
+2023-11-16 00:35:27,335 - default - INFO - Parse: https://blog.timescale.com/feed
+2023-11-16 00:35:28,100 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:35:28,100 - default - INFO - End: https://blog.timescale.com/feed 已解析 1 篇文章
+2023-11-16 00:35:28,100 - default - INFO - Parse: https://engineering.tumblr.com/rss
+2023-11-16 00:35:28,188 - default - INFO - End: https://engineering.tumblr.com/rss 已解析 0 篇文章
+2023-11-16 00:35:28,188 - default - INFO - Parse: http://eng.wealthfront.com/feed/
+2023-11-16 00:35:28,698 - default - INFO - End: http://eng.wealthfront.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:28,698 - default - INFO - Parse: https://www.sitepoint.com/feed/
+2023-11-16 00:35:29,072 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:35:29,073 - default - INFO - End: https://www.sitepoint.com/feed/ 已解析 1 篇文章
+2023-11-16 00:35:29,073 - default - INFO - Parse: https://stripe.com/blog/feed.rss
+2023-11-16 00:35:29,929 - default - INFO - End: https://stripe.com/blog/feed.rss 已解析 0 篇文章
+2023-11-16 00:35:29,929 - default - INFO - Parse: http://engineering.wingify.com/atom.xml
+2023-11-16 00:35:31,177 - default - INFO - End: http://engineering.wingify.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:35:31,177 - default - INFO - Parse: https://infrequently.org/feed/
+2023-11-16 00:35:31,590 - default - INFO - End: https://infrequently.org/feed/ 已解析 0 篇文章
+2023-11-16 00:35:31,590 - default - INFO - Parse: https://www.amitmerchant.com/feed.xml
+2023-11-16 00:35:31,767 - default - INFO - End: https://www.amitmerchant.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:31,767 - default - INFO - Parse: https://buildingvts.com/feed
+2023-11-16 00:35:31,960 - default - INFO - End: https://buildingvts.com/feed 已解析 0 篇文章
+2023-11-16 00:35:31,960 - default - INFO - Parse: http://addyosmani.com/rss.xml
+2023-11-16 00:35:32,135 - default - INFO - End: http://addyosmani.com/rss.xml 已解析 0 篇文章
+2023-11-16 00:35:32,135 - default - INFO - Parse: https://engineeringblog.yelp.com/feed.xml
+2023-11-16 00:35:32,278 - default - INFO - 解析 https://engineeringblog.yelp.com/feed.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-16 00:35:32,278 - default - INFO - End: https://engineeringblog.yelp.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:32,278 - default - INFO - Parse: https://alanstorm.com/feed/feed.xml
+2023-11-16 00:35:32,738 - default - INFO - 解析 https://alanstorm.com/feed/feed.xml 失败 <unknown>:124:0: junk after document element
+2023-11-16 00:35:32,738 - default - INFO - End: https://alanstorm.com/feed/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:32,738 - default - INFO - Parse: https://ariya.io/index.xml
+2023-11-16 00:35:33,016 - default - INFO - End: https://ariya.io/index.xml 已解析 0 篇文章
+2023-11-16 00:35:33,016 - default - INFO - Parse: https://tech.xing.com/feed
+2023-11-16 00:35:34,039 - default - INFO - End: https://tech.xing.com/feed 已解析 0 篇文章
+2023-11-16 00:35:34,039 - default - INFO - Parse: http://tenderlovemaking.com/atom.xml
+2023-11-16 00:35:34,671 - default - INFO - End: http://tenderlovemaking.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:35:34,672 - default - INFO - Parse: https://www.devroom.io/index.xml
+2023-11-16 00:35:35,550 - default - INFO - 解析 https://www.devroom.io/index.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-16 00:35:35,551 - default - INFO - End: https://www.devroom.io/index.xml 已解析 0 篇文章
+2023-11-16 00:35:35,551 - default - INFO - Parse: https://carlosbecker.com/index.xml
+2023-11-16 00:35:35,784 - default - INFO - End: https://carlosbecker.com/index.xml 已解析 0 篇文章
+2023-11-16 00:35:35,785 - default - INFO - Parse: https://developerblog.zendesk.com/feed
+2023-11-16 00:35:35,978 - default - INFO - End: https://developerblog.zendesk.com/feed 已解析 0 篇文章
+2023-11-16 00:35:35,978 - default - INFO - Parse: https://bohops.com/feed/
+2023-11-16 00:35:36,170 - default - INFO - End: https://bohops.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:36,170 - default - INFO - Parse: http://lucumr.pocoo.org/feed.atom
+2023-11-16 00:35:37,546 - default - INFO - End: http://lucumr.pocoo.org/feed.atom 已解析 0 篇文章
+2023-11-16 00:35:37,546 - default - INFO - Parse: http://nullprogram.com/feed/
+2023-11-16 00:35:37,850 - default - INFO - End: http://nullprogram.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:37,850 - default - INFO - Parse: https://code.dblock.org/feed.xml
+2023-11-16 00:35:38,833 - default - INFO - End: https://code.dblock.org/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:38,834 - default - INFO - Parse: http://www.brendangregg.com/blog/rss.xml
+2023-11-16 00:35:39,429 - default - INFO - End: http://www.brendangregg.com/blog/rss.xml 已解析 0 篇文章
+2023-11-16 00:35:39,429 - default - INFO - Parse: https://www.dereuromark.de/feed/
+2023-11-16 00:35:40,076 - default - INFO - End: https://www.dereuromark.de/feed/ 已解析 0 篇文章
+2023-11-16 00:35:40,076 - default - INFO - Parse: https://domenicoluciani.com/feed.xml
+2023-11-16 00:35:40,292 - default - INFO - End: https://domenicoluciani.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:40,292 - default - INFO - Parse: https://blog.filippo.io/rss/
+2023-11-16 00:35:40,692 - default - INFO - End: https://blog.filippo.io/rss/ 已解析 0 篇文章
+2023-11-16 00:35:40,692 - default - INFO - Parse: https://hookrace.net/blog/feed/
+2023-11-16 00:35:42,579 - default - INFO - End: https://hookrace.net/blog/feed/ 已解析 0 篇文章
+2023-11-16 00:35:42,579 - default - INFO - Parse: https://dotdev.co/feed/
+2023-11-16 00:35:42,687 - default - INFO - End: https://dotdev.co/feed/ 已解析 0 篇文章
+2023-11-16 00:35:42,687 - default - INFO - Parse: https://ericlippert.com/feed/
+2023-11-16 00:35:42,770 - default - INFO - End: https://ericlippert.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:42,770 - default - INFO - Parse: https://tomassetti.me/feed/
+2023-11-16 00:35:43,062 - default - INFO - End: https://tomassetti.me/feed/ 已解析 0 篇文章
+2023-11-16 00:35:43,062 - default - INFO - Parse: http://www.evanjones.ca/index.rss
+2023-11-16 00:35:43,247 - default - INFO - End: http://www.evanjones.ca/index.rss 已解析 0 篇文章
+2023-11-16 00:35:43,247 - default - INFO - Parse: https://deanhume.com/rss/
+2023-11-16 00:35:43,669 - default - INFO - End: https://deanhume.com/rss/ 已解析 0 篇文章
+2023-11-16 00:35:43,669 - default - INFO - Parse: http://feeds.feedburner.com/HighScalability
+2023-11-16 00:35:43,775 - default - INFO - End: http://feeds.feedburner.com/HighScalability 已解析 0 篇文章
+2023-11-16 00:35:43,775 - default - INFO - Parse: https://erikrunyon.com/feed.xml
+2023-11-16 00:35:44,110 - default - INFO - End: https://erikrunyon.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:44,110 - default - INFO - Parse: https://drewdevault.com/feed.xml
+2023-11-16 00:35:44,677 - default - INFO - End: https://drewdevault.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:44,678 - default - INFO - Parse: https://www.chenhuijing.com/feed.xml
+2023-11-16 00:35:45,348 - default - INFO - End: https://www.chenhuijing.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:45,348 - default - INFO - Parse: https://www.metachris.com/index.xml
+2023-11-16 00:35:45,441 - default - INFO - End: https://www.metachris.com/index.xml 已解析 0 篇文章
+2023-11-16 00:35:45,441 - default - INFO - Parse: https://elegantcode.com/feed/
+2023-11-16 00:35:45,521 - default - INFO - End: https://elegantcode.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:45,521 - default - INFO - Parse: https://conductofcode.io/feed.xml
+2023-11-16 00:35:45,795 - default - INFO - End: https://conductofcode.io/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:45,795 - default - INFO - Parse: https://glebbahmutov.com/blog/atom.xml
+2023-11-16 00:35:46,994 - default - INFO - End: https://glebbahmutov.com/blog/atom.xml 已解析 0 篇文章
+2023-11-16 00:35:46,994 - default - INFO - Parse: https://eli.thegreenplace.net/feeds/all.atom.xml
+2023-11-16 00:35:47,437 - default - INFO - End: https://eli.thegreenplace.net/feeds/all.atom.xml 已解析 0 篇文章
+2023-11-16 00:35:47,437 - default - INFO - Parse: https://henrikwarne.com/feed/
+2023-11-16 00:35:47,616 - default - INFO - End: https://henrikwarne.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:47,616 - default - INFO - Parse: https://davidwalsh.name/feed/atom
+2023-11-16 00:35:48,295 - default - INFO - End: https://davidwalsh.name/feed/atom 已解析 0 篇文章
+2023-11-16 00:35:48,295 - default - INFO - Parse: https://jeremykun.com/feed/
+2023-11-16 00:35:48,750 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:35:48,750 - default - INFO - End: https://jeremykun.com/feed/ 已解析 1 篇文章
+2023-11-16 00:35:48,750 - default - INFO - Parse: https://tympanus.net/codrops/rss
+2023-11-16 00:35:49,902 - default - INFO - End: https://tympanus.net/codrops/rss 已解析 0 篇文章
+2023-11-16 00:35:49,902 - default - INFO - Parse: http://jakewharton.com/feed.xml
+2023-11-16 00:35:50,988 - default - INFO - End: http://jakewharton.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:50,988 - default - INFO - Parse: https://jes.al/atom.xml
+2023-11-16 00:35:51,614 - default - INFO - End: https://jes.al/atom.xml 已解析 0 篇文章
+2023-11-16 00:35:51,614 - default - INFO - Parse: https://jvns.ca/atom.xml
+2023-11-16 00:35:52,018 - default - INFO - End: https://jvns.ca/atom.xml 已解析 0 篇文章
+2023-11-16 00:35:52,018 - default - INFO - Parse: https://codeblog.jonskeet.uk/feed/
+2023-11-16 00:35:52,237 - default - INFO - End: https://codeblog.jonskeet.uk/feed/ 已解析 0 篇文章
+2023-11-16 00:35:52,237 - default - INFO - Parse: https://adambard.com/blog/feed.xml
+2023-11-16 00:35:52,354 - default - INFO - End: https://adambard.com/blog/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:52,354 - default - INFO - Parse: https://useyourloaf.com/blog/rss.xml
+2023-11-16 00:35:52,650 - default - INFO - End: https://useyourloaf.com/blog/rss.xml 已解析 0 篇文章
+2023-11-16 00:35:52,650 - default - INFO - Parse: https://jerrygamblin.com/feed/
+2023-11-16 00:35:52,874 - default - INFO - End: https://jerrygamblin.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:52,874 - default - INFO - Parse: https://idea.popcount.org/rss.xml
+2023-11-16 00:35:53,605 - default - INFO - End: https://idea.popcount.org/rss.xml 已解析 0 篇文章
+2023-11-16 00:35:53,605 - default - INFO - Parse: https://maryrosecook.com/blog/feed.xml
+2023-11-16 00:35:53,712 - default - INFO - 解析 https://maryrosecook.com/blog/feed.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-16 00:35:53,712 - default - INFO - End: https://maryrosecook.com/blog/feed.xml 已解析 0 篇文章
+2023-11-16 00:35:53,712 - default - INFO - Parse: https://begriffs.com/atom.xml
+2023-11-16 00:35:55,414 - default - INFO - 解析 https://begriffs.com/atom.xml 失败 document declared as us-ascii, but parsed as utf-8
+2023-11-16 00:35:55,415 - default - INFO - End: https://begriffs.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:35:55,415 - default - INFO - Parse: http://matt.might.net/articles/feed.rss
+2023-11-16 00:35:56,237 - default - INFO - End: http://matt.might.net/articles/feed.rss 已解析 0 篇文章
+2023-11-16 00:35:56,237 - default - INFO - Parse: https://martinfowler.com/feed.atom
+2023-11-16 00:35:56,415 - default - INFO - End: https://martinfowler.com/feed.atom 已解析 0 篇文章
+2023-11-16 00:35:56,415 - default - INFO - Parse: https://blog.sleeplessbeastie.eu/feed.xml
+2023-11-16 00:35:58,967 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:35:58,969 - default - INFO - End: https://blog.sleeplessbeastie.eu/feed.xml 已解析 1 篇文章
+2023-11-16 00:35:58,969 - default - INFO - Parse: https://blog.cryptographyengineering.com/feed/
+2023-11-16 00:35:59,306 - default - INFO - End: https://blog.cryptographyengineering.com/feed/ 已解析 0 篇文章
+2023-11-16 00:35:59,307 - default - INFO - Parse: http://blog.fogus.me/feed/
+2023-11-16 00:36:00,157 - default - INFO - End: http://blog.fogus.me/feed/ 已解析 0 篇文章
+2023-11-16 00:36:00,158 - default - INFO - Parse: https://blog.rinesi.com/feed/
+2023-11-16 00:36:00,603 - default - INFO - End: https://blog.rinesi.com/feed/ 已解析 0 篇文章
+2023-11-16 00:36:00,604 - default - INFO - Parse: https://snook.ca/jonathan/index.rdf
+2023-11-16 00:36:01,065 - default - INFO - End: https://snook.ca/jonathan/index.rdf 已解析 0 篇文章
+2023-11-16 00:36:01,065 - default - INFO - Parse: https://www.mattcutts.com/blog/feed/
+2023-11-16 00:36:01,479 - default - INFO - End: https://www.mattcutts.com/blog/feed/ 已解析 0 篇文章
+2023-11-16 00:36:01,479 - default - INFO - Parse: http://www.windytan.com/feeds/posts/default
+2023-11-16 00:36:01,910 - default - INFO - End: http://www.windytan.com/feeds/posts/default 已解析 0 篇文章
+2023-11-16 00:36:01,910 - default - INFO - Parse: https://aphyr.com/posts.atom
+2023-11-16 00:36:03,235 - default - INFO - End: https://aphyr.com/posts.atom 已解析 0 篇文章
+2023-11-16 00:36:03,235 - default - INFO - Parse: http://blog.pamelafox.org/feeds/posts/default
+2023-11-16 00:36:03,503 - default - INFO - End: http://blog.pamelafox.org/feeds/posts/default 已解析 0 篇文章
+2023-11-16 00:36:03,504 - default - INFO - Parse: https://oleb.net/blog/atom.xml
+2023-11-16 00:36:03,781 - default - INFO - End: https://oleb.net/blog/atom.xml 已解析 0 篇文章
+2023-11-16 00:36:03,781 - default - INFO - Parse: https://blogs.msdn.microsoft.com/oldnewthing/feed
+2023-11-16 00:36:03,982 - default - INFO - 解析 https://blogs.msdn.microsoft.com/oldnewthing/feed 失败 <unknown>:3:0: XML or text declaration not at start of entity
+2023-11-16 00:36:04,378 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:36:04,379 - default - INFO - End: https://blogs.msdn.microsoft.com/oldnewthing/feed 已解析 1 篇文章
+2023-11-16 00:36:04,379 - default - INFO - Parse: https://realpython.com/atom.xml
+2023-11-16 00:36:04,939 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:36:04,940 - default - INFO - End: https://realpython.com/atom.xml 已解析 1 篇文章
+2023-11-16 00:36:04,940 - default - INFO - Parse: http://blog.cleancoder.com/atom.xml
+2023-11-16 00:36:05,053 - default - INFO - End: http://blog.cleancoder.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:36:05,053 - default - INFO - Parse: https://akrabat.com/feed/
+2023-11-16 00:36:05,630 - default - INFO - End: https://akrabat.com/feed/ 已解析 0 篇文章
+2023-11-16 00:36:05,630 - default - INFO - Parse: https://www.thepolyglotdeveloper.com/blog/index.xml
+2023-11-16 00:36:06,612 - default - INFO - End: https://www.thepolyglotdeveloper.com/blog/index.xml 已解析 0 篇文章
+2023-11-16 00:36:06,613 - default - INFO - Parse: https://eviltrout.com/feed.xml
+2023-11-16 00:36:07,073 - default - INFO - End: https://eviltrout.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:36:07,073 - default - INFO - Parse: https://joshtronic.com/atom.xml
+2023-11-16 00:36:07,241 - default - INFO - 解析 https://joshtronic.com/atom.xml 失败 <unknown>:2:0: syntax error
+2023-11-16 00:36:07,241 - default - INFO - End: https://joshtronic.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:36:07,241 - default - INFO - Parse: http://feeds.hanselman.com/ScottHanselman
+2023-11-16 00:36:07,651 - default - INFO - End: http://feeds.hanselman.com/ScottHanselman 已解析 0 篇文章
+2023-11-16 00:36:07,651 - default - INFO - Parse: https://blog.nelhage.com/atom.xml
+2023-11-16 00:36:08,063 - default - INFO - End: https://blog.nelhage.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:36:08,063 - default - INFO - Parse: http://blog.rtwilson.com/feed/
+2023-11-16 00:36:08,482 - default - INFO - End: http://blog.rtwilson.com/feed/ 已解析 0 篇文章
+2023-11-16 00:36:08,482 - default - INFO - Parse: http://www.catonmat.net/feed/
+2023-11-16 00:36:08,873 - default - INFO - End: http://www.catonmat.net/feed/ 已解析 0 篇文章
+2023-11-16 00:36:08,873 - default - INFO - Parse: https://neverfriday.com/feed/
+2023-11-16 00:36:09,285 - default - INFO - End: https://neverfriday.com/feed/ 已解析 0 篇文章
+2023-11-16 00:36:09,285 - default - INFO - Parse: http://thedailywtf.com/rss
+2023-11-16 00:36:09,880 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:36:09,881 - default - INFO - End: http://thedailywtf.com/rss 已解析 1 篇文章
+2023-11-16 00:36:09,881 - default - INFO - Parse: https://vladmihalcea.com/feed/
+2023-11-16 00:36:10,026 - default - INFO - 文章较短，不需要总结
+2023-11-16 00:36:10,027 - default - INFO - End: https://vladmihalcea.com/feed/ 已解析 1 篇文章
+2023-11-16 00:36:10,027 - default - INFO - Parse: https://www.yegor256.com/rss.xml
+2023-11-16 00:36:10,270 - default - INFO - End: https://www.yegor256.com/rss.xml 已解析 0 篇文章
+2023-11-16 00:36:10,270 - default - INFO - Parse: https://muffinman.io/atom.xml
+2023-11-16 00:36:12,422 - default - INFO - End: https://muffinman.io/atom.xml 已解析 0 篇文章
+2023-11-16 00:36:12,422 - default - INFO - Parse: https://www.ardanlabs.com/blog/index.xml
+2023-11-16 00:36:12,741 - default - INFO - End: https://www.ardanlabs.com/blog/index.xml 已解析 0 篇文章
+2023-11-16 00:36:12,741 - default - INFO - Parse: https://blog.getbootstrap.com/feed.xml
+2023-11-16 00:36:12,918 - default - INFO - End: https://blog.getbootstrap.com/feed.xml 已解析 0 篇文章
+2023-11-16 00:36:12,918 - default - INFO - Parse: https://zachholman.com/atom.xml
+2023-11-16 00:36:13,148 - default - INFO - End: https://zachholman.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:36:13,149 - default - INFO - Parse: https://ipfs.io/blog/index.xml
+2023-11-16 00:36:13,328 - default - INFO - End: https://ipfs.io/blog/index.xml 已解析 0 篇文章
+2023-11-16 00:36:13,328 - default - INFO - Parse: https://blog.golang.org/feed.atom
+2023-11-16 00:36:13,746 - default - INFO - End: https://blog.golang.org/feed.atom 已解析 0 篇文章
+2023-11-16 00:36:13,746 - default - INFO - Parse: https://blog.jooq.org/feed/
+2023-11-16 00:36:14,228 - default - INFO - End: https://blog.jooq.org/feed/ 已解析 0 篇文章
+2023-11-16 00:36:14,228 - default - INFO - Parse: https://blogs.msdn.microsoft.com/dotnet/feed/
+2023-11-16 00:36:14,594 - default - INFO - 解析 https://blogs.msdn.microsoft.com/dotnet/feed/ 失败 <unknown>:3:0: XML or text declaration not at start of entity
+2023-11-16 00:36:14,595 - default - INFO - End: https://blogs.msdn.microsoft.com/dotnet/feed/ 已解析 0 篇文章
+2023-11-16 00:36:14,595 - default - INFO - Parse: http://raganwald.com/atom.xml
+2023-11-16 00:36:23,085 - default - INFO - End: http://raganwald.com/atom.xml 已解析 0 篇文章
+2023-11-16 00:36:23,085 - default - INFO - Parse: https://blogs.windows.com/msedgedev/rss
+2023-11-16 00:36:23,910 - default - WARNING - Summarize failed. 该令牌额度已用尽
+2023-11-16 00:36:23,911 - default - INFO - End: https://blogs.windows.com/msedgedev/rss 已解析 1 篇文章
+2023-11-16 00:36:23,911 - default - INFO - Parse: https://blog.jetbrains.com/kotlin/feed/
+2023-11-16 00:36:24,089 - default - INFO - End: https://blog.jetbrains.com/kotlin/feed/ 已解析 0 篇文章
+2023-11-16 00:36:24,089 - default - INFO - Parse: https://tania.dev/rss.xml
+2023-11-16 00:36:25,300 - default - INFO - End: https://tania.dev/rss.xml 已解析 0 篇文章
+2023-11-16 00:36:25,300 - default - INFO - Parse: https://swizec.com/blog/feed
+2023-11-16 00:36:25,346 - default - INFO - 解析 https://swizec.com/blog/feed 失败 <unknown>:2:0: syntax error
+2023-11-16 00:36:25,346 - default - INFO - End: https://swizec.com/blog/feed 已解析 0 篇文章
+2023-11-16 00:36:25,905 - default - INFO - Aggregate 已新增 34 篇
+2023-11-16 00:36:25,905 - default - INFO - Aggregate AI总结花费 {}
