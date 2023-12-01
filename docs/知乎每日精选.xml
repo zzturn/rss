@@ -6,7 +6,7 @@
     <description>知乎每日精选</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 00:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 00:37:38 +0000</lastBuildDate>
     <item>
       <title>如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？</title>
       <link>http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title</link>
