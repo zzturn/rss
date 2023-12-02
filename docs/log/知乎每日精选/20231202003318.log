@@ -1,0 +1,6 @@
+2023-12-02 00:33:18,108 - default - INFO - Parse: https://www.zhihu.com/rss
+2023-12-02 00:33:40,966 - default - INFO - Summarization cost {'prompt_tokens': 3002, 'completion_tokens': 191, 'total_tokens': 3193}
+2023-12-02 00:34:03,542 - default - INFO - Summarization cost {'prompt_tokens': 1776, 'completion_tokens': 291, 'total_tokens': 2067}
+2023-12-02 00:34:03,542 - default - INFO - End: https://www.zhihu.com/rss 已解析 2 篇文章
+2023-12-02 00:34:03,547 - default - INFO - 知乎每日精选 已新增 2 篇
+2023-12-02 00:34:03,547 - default - INFO - 知乎每日精选 AI总结花费 {'chatglm_std': 5260}
