@@ -1,0 +1,5 @@
+2024-01-05 00:34:38,674 - default - INFO - Parse: https://www.zhihu.com/rss
+2024-01-05 00:34:45,147 - default - INFO - 文章较短，不需要总结
+2024-01-05 00:34:45,147 - default - INFO - End: https://www.zhihu.com/rss 已解析 1 篇文章
+2024-01-05 00:34:45,420 - default - INFO - 知乎每日精选 已新增 1 篇
+2024-01-05 00:34:45,420 - default - INFO - 知乎每日精选 AI总结花费 {}
