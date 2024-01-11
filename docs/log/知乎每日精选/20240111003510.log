@@ -1,0 +1,6 @@
+2024-01-11 00:35:10,265 - default - INFO - Parse: https://www.zhihu.com/rss
+2024-01-11 00:35:19,591 - default - WARNING - Summarize failed. 'data'
+2024-01-11 00:35:22,094 - default - WARNING - Summarize failed. 'data'
+2024-01-11 00:35:22,095 - default - INFO - End: https://www.zhihu.com/rss 已解析 2 篇文章
+2024-01-11 00:35:22,403 - default - INFO - 知乎每日精选 已新增 2 篇
+2024-01-11 00:35:22,403 - default - INFO - 知乎每日精选 AI总结花费 {}
