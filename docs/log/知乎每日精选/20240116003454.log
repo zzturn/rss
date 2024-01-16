@@ -1,0 +1,8 @@
+2024-01-16 00:34:54,266 - default - INFO - Parse: https://www.zhihu.com/rss
+2024-01-16 00:35:03,352 - default - WARNING - Summarize failed. 'data'
+2024-01-16 00:35:19,483 - default - INFO - Summarization cost {'prompt_tokens': 2090, 'completion_tokens': 187, 'total_tokens': 2277}
+2024-01-16 00:35:32,505 - default - INFO - Summarization cost {'prompt_tokens': 1743, 'completion_tokens': 158, 'total_tokens': 1901}
+2024-01-16 00:35:49,526 - default - INFO - Summarization cost {'prompt_tokens': 4236, 'completion_tokens': 173, 'total_tokens': 4409}
+2024-01-16 00:35:49,527 - default - INFO - End: https://www.zhihu.com/rss 已解析 4 篇文章
+2024-01-16 00:35:49,869 - default - INFO - 知乎每日精选 已新增 4 篇
+2024-01-16 00:35:49,869 - default - INFO - 知乎每日精选 AI总结花费 {'chatglm_std': 8587}
